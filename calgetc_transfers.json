@@ -1,0 +1,2399 @@
+{
+  "institutionName": "Monterey Peninsula College",
+  "academicYear": "2025-2026",
+  "listType": 8,
+  "listTypeRequested": "CALGETC",
+  "courses": [
+    {
+      "course": "PSYC 6 - Psychology of Women",
+      "transferAreas": [
+        "4"
+      ],
+      "approvedDate": "2015-10-01T00:00:00",
+      "approvedTerm": "F2015",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "GWOS 40 - Introduction to Feminist Theory",
+      "transferAreas": [
+        "4",
+        "3B"
+      ],
+      "approvedDate": "2015-10-01T00:00:00",
+      "approvedTerm": "F2015",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "PHIL 4 - Introduction to Ethics",
+      "transferAreas": [
+        "3B"
+      ],
+      "approvedDate": "2023-10-01T00:00:00",
+      "approvedTerm": "F2023",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "ENGL C1001 - Critical Thinking and Writing",
+      "transferAreas": [
+        "1B"
+      ],
+      "approvedDate": "2025-10-01T00:00:00",
+      "approvedTerm": "F2025",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "ANTH 30 - Gender in Global Perspective",
+      "transferAreas": [
+        "4"
+      ],
+      "approvedDate": "2023-10-01T00:00:00",
+      "approvedTerm": "F2023",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "GWOS 30 - Gender in Global Perspective",
+      "transferAreas": [
+        "4"
+      ],
+      "approvedDate": "2023-10-01T00:00:00",
+      "approvedTerm": "F2023",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "HIST 12 - Women in United States History",
+      "transferAreas": [
+        "3B",
+        "4"
+      ],
+      "approvedDate": "2025-10-01T00:00:00",
+      "approvedTerm": "F2025",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "ECED 55 - Child, Family, and Community",
+      "transferAreas": [
+        "4"
+      ],
+      "approvedDate": "2013-10-01T00:00:00",
+      "approvedTerm": "F2013",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "CHEM 30B - Organic and Biological Chemistry for Health Sciences",
+      "transferAreas": [
+        "5C",
+        "5A"
+      ],
+      "approvedDate": "2013-10-01T00:00:00",
+      "approvedTerm": "F2013",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "CHEM 30A - Introductory Chemistry for Health Sciences",
+      "transferAreas": [
+        "5A",
+        "5C"
+      ],
+      "approvedDate": "2013-10-01T00:00:00",
+      "approvedTerm": "F2013",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "POLS 10 - Gender in American Politics",
+      "transferAreas": [
+        "4"
+      ],
+      "approvedDate": "2015-10-01T00:00:00",
+      "approvedTerm": "F2015",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "PSYC 35 - Introduction to Abnormal Psychology",
+      "transferAreas": [
+        "4"
+      ],
+      "approvedDate": "1998-10-01T00:00:00",
+      "approvedTerm": "F1998",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "ETNC 20 - Introduction to Native American Studies",
+      "transferAreas": [
+        "4"
+      ],
+      "approvedDate": "2025-10-01T00:00:00",
+      "approvedTerm": "F2025",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "MATH 18 - Calculus and Analytic Geometry for the Biological/Social Science/Business",
+      "transferAreas": [
+        "2"
+      ],
+      "approvedDate": "1995-10-01T00:00:00",
+      "approvedTerm": "F1995",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "GWOS 4 - Gender, Sexuality, and Popular Culture",
+      "transferAreas": [
+        "4",
+        "3B",
+        "3A"
+      ],
+      "approvedDate": "2015-10-01T00:00:00",
+      "approvedTerm": "F2015",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "GENT 21 - Medieval and Renaissance Europe (400-1520 A.D.)",
+      "transferAreas": [
+        "3B"
+      ],
+      "approvedDate": "1996-10-01T00:00:00",
+      "approvedTerm": "F1996",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "GENT 22 - Age of Revolution (1690-1870 A.D.)",
+      "transferAreas": [
+        "3B"
+      ],
+      "approvedDate": "1996-10-01T00:00:00",
+      "approvedTerm": "F1996",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "WRLD 20 - The Classical World (1200 BCE - 14 CE)",
+      "transferAreas": [
+        "3B",
+        "4"
+      ],
+      "approvedDate": "2017-10-01T00:00:00",
+      "approvedTerm": "F2017",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "MATH 20C - Calculus of Several Variables",
+      "transferAreas": [
+        "2"
+      ],
+      "approvedDate": "2020-10-01T00:00:00",
+      "approvedTerm": "F2020",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "BIOL 21 - Concepts in Biology I: Cells, Genetics, and Organisms",
+      "transferAreas": [
+        "5C",
+        "5B"
+      ],
+      "approvedDate": "1996-10-01T00:00:00",
+      "approvedTerm": "F1996",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "HUMA 40 - Introduction to Feminist Theory",
+      "transferAreas": [
+        "4",
+        "3B"
+      ],
+      "approvedDate": "1997-10-01T00:00:00",
+      "approvedTerm": "F1997",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "MATH 13 - Pre-Calculus",
+      "transferAreas": [
+        "2"
+      ],
+      "approvedDate": "2025-10-01T00:00:00",
+      "approvedTerm": "F2025",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "SOCI 3 - Introduction to Social Psychology",
+      "transferAreas": [
+        "4"
+      ],
+      "approvedDate": "1998-10-01T00:00:00",
+      "approvedTerm": "F1998",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "ENGL 40A - Survey of American Literature I",
+      "transferAreas": [
+        "3B"
+      ],
+      "approvedDate": "2015-04-01T00:00:00",
+      "approvedTerm": "S2015",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "POLS 3 - Introduction to Political Theory and Thought",
+      "transferAreas": [
+        "4"
+      ],
+      "approvedDate": "2013-10-01T00:00:00",
+      "approvedTerm": "F2013",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "PHSO 1 - Human Physiology",
+      "transferAreas": [
+        "5B"
+      ],
+      "approvedDate": "1998-10-01T00:00:00",
+      "approvedTerm": "F1998",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "PHYS 10 - Introduction to Physics",
+      "transferAreas": [
+        "5C",
+        "5A"
+      ],
+      "approvedDate": "1998-10-01T00:00:00",
+      "approvedTerm": "F1998",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "POLS 4 - Introduction to International Relations",
+      "transferAreas": [
+        "4"
+      ],
+      "approvedDate": "2013-10-01T00:00:00",
+      "approvedTerm": "F2013",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "COMM C1000 - Introduction to Public Speaking",
+      "transferAreas": [
+        "1C"
+      ],
+      "approvedDate": "2025-10-01T00:00:00",
+      "approvedTerm": "F2025",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "BIOL 31 - Introduction to Environmental Science",
+      "transferAreas": [
+        "5B",
+        "5A"
+      ],
+      "approvedDate": "2022-10-01T00:00:00",
+      "approvedTerm": "F2022",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "ENGL C1000 - Academic Reading and Writing",
+      "transferAreas": [
+        "1A"
+      ],
+      "approvedDate": "2025-10-01T00:00:00",
+      "approvedTerm": "F2025",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "POLS 5 - International Political Economy",
+      "transferAreas": [
+        "4"
+      ],
+      "approvedDate": "2025-10-01T00:00:00",
+      "approvedTerm": "F2025",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "GWOS 12 - Women in United States History",
+      "transferAreas": [
+        "3B",
+        "4"
+      ],
+      "approvedDate": "2015-10-01T00:00:00",
+      "approvedTerm": "F2015",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "THEA 5 - Film Appreciation",
+      "transferAreas": [
+        "3A"
+      ],
+      "approvedDate": "2009-10-01T00:00:00",
+      "approvedTerm": "F2009",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "ANTH 2 - Introduction to Biological Anthropology",
+      "transferAreas": [
+        "4",
+        "5B"
+      ],
+      "approvedDate": "2009-10-01T00:00:00",
+      "approvedTerm": "F2009",
+      "removedDate": "2026-10-01T00:00:00",
+      "removedTerm": "F2026",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "THEA 1 - Introduction to Theatre",
+      "transferAreas": [
+        "3A"
+      ],
+      "approvedDate": "2013-10-01T00:00:00",
+      "approvedTerm": "F2013",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "THEA 53 - Theatre Enjoyment",
+      "transferAreas": [
+        "3A"
+      ],
+      "approvedDate": "2009-10-01T00:00:00",
+      "approvedTerm": "F2009",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "ENGL 1B - Introduction to Literature",
+      "transferAreas": [
+        "3B"
+      ],
+      "approvedDate": "2013-10-01T00:00:00",
+      "approvedTerm": "F2013",
+      "removedDate": "2026-10-01T00:00:00",
+      "removedTerm": "F2026",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "BIOL 22 - Concepts in Biology II: Diversity, Ecology, and Evolution",
+      "transferAreas": [
+        "5B",
+        "5C"
+      ],
+      "approvedDate": "2009-10-01T00:00:00",
+      "approvedTerm": "F2009",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "ECED 1 - Child Growth and Development",
+      "transferAreas": [
+        "4"
+      ],
+      "approvedDate": "2013-10-01T00:00:00",
+      "approvedTerm": "F2013",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "PHSO 2 - Human Physiology Laboratory",
+      "transferAreas": [
+        "5C"
+      ],
+      "approvedDate": "2013-10-01T00:00:00",
+      "approvedTerm": "F2013",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "ANAT 1 - Human Anatomy with Cadaver Lab",
+      "transferAreas": [
+        "5B",
+        "5C"
+      ],
+      "approvedDate": "2023-10-01T00:00:00",
+      "approvedTerm": "F2023",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "ARTH 1 - Understanding Art",
+      "transferAreas": [
+        "3A"
+      ],
+      "approvedDate": "2023-10-01T00:00:00",
+      "approvedTerm": "F2023",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "HIST 4 - Western Civilization I",
+      "transferAreas": [
+        "4",
+        "3B"
+      ],
+      "approvedDate": "2013-10-01T00:00:00",
+      "approvedTerm": "F2013",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "POLS C1000 - American Government and Politics",
+      "transferAreas": [
+        "4"
+      ],
+      "approvedDate": "2025-10-01T00:00:00",
+      "approvedTerm": "F2025",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "PSYC 25 - Lifespan Development",
+      "transferAreas": [
+        "4"
+      ],
+      "approvedDate": "2013-10-01T00:00:00",
+      "approvedTerm": "F2013",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "ARTH 8 - Survey of Asian Art",
+      "transferAreas": [
+        "3A"
+      ],
+      "approvedDate": "2013-10-01T00:00:00",
+      "approvedTerm": "F2013",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "GEOG 4 - Introduction to Human Geography",
+      "transferAreas": [
+        "4"
+      ],
+      "approvedDate": "2013-10-01T00:00:00",
+      "approvedTerm": "F2013",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "SOCI 1 - Introduction to Sociology",
+      "transferAreas": [
+        "4"
+      ],
+      "approvedDate": "2013-10-01T00:00:00",
+      "approvedTerm": "F2013",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "HIST 18 - United States History from 1865",
+      "transferAreas": [
+        "4",
+        "3B"
+      ],
+      "approvedDate": "2013-10-01T00:00:00",
+      "approvedTerm": "F2013",
+      "removedDate": "2026-10-01T00:00:00",
+      "removedTerm": "F2026",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "ADMJ 2 - Introduction to Administration of Justice",
+      "transferAreas": [
+        "4"
+      ],
+      "approvedDate": "2013-10-01T00:00:00",
+      "approvedTerm": "F2013",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "HIST 17 - United States History to 1877",
+      "transferAreas": [
+        "3B",
+        "4"
+      ],
+      "approvedDate": "2013-10-01T00:00:00",
+      "approvedTerm": "F2013",
+      "removedDate": "2026-10-01T00:00:00",
+      "removedTerm": "F2026",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "ETNC 5 - African-American Arts and Music",
+      "transferAreas": [
+        "3B",
+        "3A"
+      ],
+      "approvedDate": "2023-10-01T00:00:00",
+      "approvedTerm": "F2023",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "GEOL 2 - Physical Geology",
+      "transferAreas": [
+        "5A"
+      ],
+      "approvedDate": "2013-10-01T00:00:00",
+      "approvedTerm": "F2013",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "ARTH 4 - Western Art II",
+      "transferAreas": [
+        "3A"
+      ],
+      "approvedDate": "2013-10-01T00:00:00",
+      "approvedTerm": "F2013",
+      "removedDate": "2026-10-01T00:00:00",
+      "removedTerm": "F2026",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "GWOS 10 - Gender in American Politics",
+      "transferAreas": [
+        "4"
+      ],
+      "approvedDate": "2015-10-01T00:00:00",
+      "approvedTerm": "F2015",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "MUSI 10A - Music Theory and Musicianship I",
+      "transferAreas": [
+        "3A"
+      ],
+      "approvedDate": "2013-10-01T00:00:00",
+      "approvedTerm": "F2013",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "MUSI 10B - Music Theory and Musicianship II",
+      "transferAreas": [
+        "3A"
+      ],
+      "approvedDate": "2013-10-01T00:00:00",
+      "approvedTerm": "F2013",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "ARTH 3 - Western Art I",
+      "transferAreas": [
+        "3A"
+      ],
+      "approvedDate": "2013-10-01T00:00:00",
+      "approvedTerm": "F2013",
+      "removedDate": "2026-10-01T00:00:00",
+      "removedTerm": "F2026",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "SPAN 3 - Intermediate Spanish I",
+      "transferAreas": [
+        "3B"
+      ],
+      "approvedDate": "2021-10-01T00:00:00",
+      "approvedTerm": "F2021",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "SPAN 4 - Intermediate Spanish II",
+      "transferAreas": [
+        "3B"
+      ],
+      "approvedDate": "2021-10-01T00:00:00",
+      "approvedTerm": "F2021",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "ENGL 49 - Introduction to the Novel",
+      "transferAreas": [
+        "3B"
+      ],
+      "approvedDate": "2024-10-01T00:00:00",
+      "approvedTerm": "F2024",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "HIST 5 - Western Civilization II",
+      "transferAreas": [
+        "4",
+        "3B"
+      ],
+      "approvedDate": "2013-10-01T00:00:00",
+      "approvedTerm": "F2013",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "POLS 2 - Introduction to Comparative Government and Politics",
+      "transferAreas": [
+        "4"
+      ],
+      "approvedDate": "2013-10-01T00:00:00",
+      "approvedTerm": "F2013",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "SOCI 40 - Sociology of Marriages and Families",
+      "transferAreas": [
+        "4"
+      ],
+      "approvedDate": "2017-10-01T00:00:00",
+      "approvedTerm": "F2017",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "ENGL 45 - Survey of World Literature II",
+      "transferAreas": [
+        "3B"
+      ],
+      "approvedDate": "2014-10-01T00:00:00",
+      "approvedTerm": "F2014",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "ENGL 44 - Survey of World Literature I",
+      "transferAreas": [
+        "3B"
+      ],
+      "approvedDate": "2015-04-01T00:00:00",
+      "approvedTerm": "S2015",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "GWOS 1 - Introduction to Gender and Women's Studies",
+      "transferAreas": [
+        "4"
+      ],
+      "approvedDate": "2015-10-01T00:00:00",
+      "approvedTerm": "F2015",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "GEOG 5 - World Regional Geography",
+      "transferAreas": [
+        "4"
+      ],
+      "approvedDate": "2019-10-01T00:00:00",
+      "approvedTerm": "F2019",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "ETNC 10 - Introduction to Ethnic Studies",
+      "transferAreas": [
+        "4"
+      ],
+      "approvedDate": "2023-10-01T00:00:00",
+      "approvedTerm": "F2023",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "CHEM 10 - Everyday Chemistry",
+      "transferAreas": [
+        "5C",
+        "5A"
+      ],
+      "approvedDate": "2019-10-01T00:00:00",
+      "approvedTerm": "F2019",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "ANAT 5 - Human Biology",
+      "transferAreas": [
+        "5C",
+        "5B"
+      ],
+      "approvedDate": "2019-10-01T00:00:00",
+      "approvedTerm": "F2019",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "MATH 40 - Discrete Mathematics",
+      "transferAreas": [
+        "2"
+      ],
+      "approvedDate": "2020-10-01T00:00:00",
+      "approvedTerm": "F2020",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "MATH 20B - Calculus with Analytic Geometry II",
+      "transferAreas": [
+        "2"
+      ],
+      "approvedDate": "2020-10-01T00:00:00",
+      "approvedTerm": "F2020",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "MATH 20A - Calculus with Analytic Geometry I",
+      "transferAreas": [
+        "2"
+      ],
+      "approvedDate": "2020-10-01T00:00:00",
+      "approvedTerm": "F2020",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "ETNC 16 - American Government and African American Politics",
+      "transferAreas": [
+        "4"
+      ],
+      "approvedDate": "2024-10-01T00:00:00",
+      "approvedTerm": "F2024",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "PSYC C1000 - Introduction to Psychology",
+      "transferAreas": [
+        "4"
+      ],
+      "approvedDate": "2025-10-01T00:00:00",
+      "approvedTerm": "F2025",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "STAT C1000 - Introduction to Statistics",
+      "transferAreas": [
+        "2"
+      ],
+      "approvedDate": "2025-10-01T00:00:00",
+      "approvedTerm": "F2025",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "ECON 2 - Principles of Economics: Macro",
+      "transferAreas": [
+        "4"
+      ],
+      "approvedDate": "1995-10-01T00:00:00",
+      "approvedTerm": "F1995",
+      "removedDate": "2026-10-01T00:00:00",
+      "removedTerm": "F2026",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "ECON 4 - Principles of Economics: Micro",
+      "transferAreas": [
+        "4"
+      ],
+      "approvedDate": "1995-10-01T00:00:00",
+      "approvedTerm": "F1995",
+      "removedDate": "2026-10-01T00:00:00",
+      "removedTerm": "F2026",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "MATH 31 - Linear Algebra",
+      "transferAreas": [
+        "2"
+      ],
+      "approvedDate": "2015-10-01T00:00:00",
+      "approvedTerm": "F2015",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "PHIL 40 - Introduction to Feminist Theory",
+      "transferAreas": [
+        "4",
+        "3B"
+      ],
+      "approvedDate": "1995-10-01T00:00:00",
+      "approvedTerm": "F1995",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "HUMA 10 - Exploration of Values in Living",
+      "transferAreas": [
+        "3B"
+      ],
+      "approvedDate": "1995-10-01T00:00:00",
+      "approvedTerm": "F1995",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "ENGL 47 - Survey of British Literature II",
+      "transferAreas": [
+        "3B"
+      ],
+      "approvedDate": "1995-10-01T00:00:00",
+      "approvedTerm": "F1995",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "MUSI 2 - Introduction to Broadway Musicals",
+      "transferAreas": [
+        "3A"
+      ],
+      "approvedDate": "1995-10-01T00:00:00",
+      "approvedTerm": "F1995",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "ANTH 6 - Introduction to Archaeology and Prehistory",
+      "transferAreas": [
+        "4"
+      ],
+      "approvedDate": "1995-10-01T00:00:00",
+      "approvedTerm": "F1995",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "SOCI 2 - Contemporary Social Problems",
+      "transferAreas": [
+        "4"
+      ],
+      "approvedDate": "1995-10-01T00:00:00",
+      "approvedTerm": "F1995",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "MATH 17 - Finite Mathematics",
+      "transferAreas": [
+        "2"
+      ],
+      "approvedDate": "2015-10-01T00:00:00",
+      "approvedTerm": "F2015",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "ECON 1 - The American Economic System",
+      "transferAreas": [
+        "4"
+      ],
+      "approvedDate": "1995-10-01T00:00:00",
+      "approvedTerm": "F1995",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "PHIL 10 - Introduction to Critical Thinking",
+      "transferAreas": [
+        "1B"
+      ],
+      "approvedDate": "1995-10-01T00:00:00",
+      "approvedTerm": "F1995",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "ANTH 4 - Introduction to Cultural Anthropology",
+      "transferAreas": [
+        "4"
+      ],
+      "approvedDate": "1995-10-01T00:00:00",
+      "approvedTerm": "F1995",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "MUSI 1 - Music Appreciation",
+      "transferAreas": [
+        "3A"
+      ],
+      "approvedDate": "1995-10-01T00:00:00",
+      "approvedTerm": "F1995",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "GENT 23 - The Modern World (1870-Present)",
+      "transferAreas": [
+        "3B"
+      ],
+      "approvedDate": "1995-10-01T00:00:00",
+      "approvedTerm": "F1995",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "ENGL 22 - Introduction to Poetry",
+      "transferAreas": [
+        "3B"
+      ],
+      "approvedDate": "1995-10-01T00:00:00",
+      "approvedTerm": "F1995",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "ENGL 17 - Introduction to Shakespeare",
+      "transferAreas": [
+        "3B"
+      ],
+      "approvedDate": "1995-10-01T00:00:00",
+      "approvedTerm": "F1995",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "PHIL 2 - Introduction to Philosophy",
+      "transferAreas": [
+        "3B"
+      ],
+      "approvedDate": "1995-10-01T00:00:00",
+      "approvedTerm": "F1995",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "ASTR 10 - Introduction to Astronomy",
+      "transferAreas": [
+        "5A"
+      ],
+      "approvedDate": "2000-04-01T00:00:00",
+      "approvedTerm": "S2000",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "MATH 10 - Mathematics for General Education",
+      "transferAreas": [
+        "2"
+      ],
+      "approvedDate": "2016-04-01T00:00:00",
+      "approvedTerm": "S2016",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "OCEN 2 - Introductory Oceanography",
+      "transferAreas": [
+        "5A"
+      ],
+      "approvedDate": "2010-10-01T00:00:00",
+      "approvedTerm": "F2010",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "BIOL 10 - Principles of Biology",
+      "transferAreas": [
+        "5B",
+        "5C"
+      ],
+      "approvedDate": "1995-10-01T00:00:00",
+      "approvedTerm": "F1995",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "PHYS 3A - Science and Engineering Physics I",
+      "transferAreas": [
+        "5A",
+        "5C"
+      ],
+      "approvedDate": "1995-10-01T00:00:00",
+      "approvedTerm": "F1995",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "JPNS 2A - Intermediate Japanese",
+      "transferAreas": [
+        "3B"
+      ],
+      "approvedDate": "1995-10-01T00:00:00",
+      "approvedTerm": "F1995",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "CHEM 1A - General Chemistry I",
+      "transferAreas": [
+        "5A",
+        "5C"
+      ],
+      "approvedDate": "1995-10-01T00:00:00",
+      "approvedTerm": "F1995",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "PHYS 2B - General Physics II",
+      "transferAreas": [
+        "5C",
+        "5A"
+      ],
+      "approvedDate": "1995-10-01T00:00:00",
+      "approvedTerm": "F1995",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "CHEM 2 - Fundamental Chemistry",
+      "transferAreas": [
+        "5A",
+        "5C"
+      ],
+      "approvedDate": "1995-10-01T00:00:00",
+      "approvedTerm": "F1995",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "PHYS 3C - Science and Engineering Physics III",
+      "transferAreas": [
+        "5A",
+        "5C"
+      ],
+      "approvedDate": "1995-10-01T00:00:00",
+      "approvedTerm": "F1995",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "PHYS 3B - Science and Engineering Physics II",
+      "transferAreas": [
+        "5C",
+        "5A"
+      ],
+      "approvedDate": "1995-10-01T00:00:00",
+      "approvedTerm": "F1995",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "PHYS 2A - General Physics I",
+      "transferAreas": [
+        "5A",
+        "5C"
+      ],
+      "approvedDate": "1995-10-01T00:00:00",
+      "approvedTerm": "F1995",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "BIOL 13 - Marine Biology",
+      "transferAreas": [
+        "5B",
+        "5C"
+      ],
+      "approvedDate": "1995-10-01T00:00:00",
+      "approvedTerm": "F1995",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "CHEM 12A - Organic Chemistry I",
+      "transferAreas": [
+        "5C",
+        "5A"
+      ],
+      "approvedDate": "1996-10-01T00:00:00",
+      "approvedTerm": "F1996",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "CHEM 1B - General Chemistry II",
+      "transferAreas": [
+        "5A",
+        "5C"
+      ],
+      "approvedDate": "1995-10-01T00:00:00",
+      "approvedTerm": "F1995",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "MATH 32 - Differential Equations",
+      "transferAreas": [
+        "2"
+      ],
+      "approvedDate": "2015-10-01T00:00:00",
+      "approvedTerm": "F2015",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "ENGL 46 - Survey of British Literature I",
+      "transferAreas": [
+        "3B"
+      ],
+      "approvedDate": "1995-10-01T00:00:00",
+      "approvedTerm": "F1995",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "GEOG 2 - Introduction to Physical Geography",
+      "transferAreas": [
+        "4"
+      ],
+      "approvedDate": "1995-10-01T00:00:00",
+      "approvedTerm": "F1995",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "PSYC 40 - Human Sexuality",
+      "transferAreas": [
+        "4"
+      ],
+      "approvedDate": "1995-10-01T00:00:00",
+      "approvedTerm": "F1995",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "PSYC 3 - Introduction to Social Psychology",
+      "transferAreas": [
+        "4"
+      ],
+      "approvedDate": "1995-10-01T00:00:00",
+      "approvedTerm": "F1995",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "HIST 15 - History of California",
+      "transferAreas": [
+        "4",
+        "3B"
+      ],
+      "approvedDate": "1995-10-01T00:00:00",
+      "approvedTerm": "F1995",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "BIOL 30 - Introduction to Genetics",
+      "transferAreas": [
+        "5B"
+      ],
+      "approvedDate": "1995-10-01T00:00:00",
+      "approvedTerm": "F1995",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "CHEM 12B - Organic Chemistry II",
+      "transferAreas": [
+        "5C",
+        "5A"
+      ],
+      "approvedDate": "1995-10-01T00:00:00",
+      "approvedTerm": "F1995",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "HUMA 30 - Humanities in the Multicultural America",
+      "transferAreas": [
+        "3B"
+      ],
+      "approvedDate": "2010-10-01T00:00:00",
+      "approvedTerm": "F2010",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "SPCH 4 - Intercultural Communication",
+      "transferAreas": [
+        "4"
+      ],
+      "approvedDate": "2004-10-01T00:00:00",
+      "approvedTerm": "F2004",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "PHIL 13 - Introduction to Eastern Philosophy",
+      "transferAreas": [
+        "3B"
+      ],
+      "approvedDate": "1996-10-01T00:00:00",
+      "approvedTerm": "F1996",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "BIOL 26 - Applied Microbiology Laboratory",
+      "transferAreas": [
+        "5C"
+      ],
+      "approvedDate": "1997-10-01T00:00:00",
+      "approvedTerm": "F1997",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "BIOL 25 - Applied Microbiology Lecture",
+      "transferAreas": [
+        "5B"
+      ],
+      "approvedDate": "1997-10-01T00:00:00",
+      "approvedTerm": "F1997",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "THEA 4 - Intercultural Drama",
+      "transferAreas": [
+        "3B",
+        "3A"
+      ],
+      "approvedDate": "2009-10-01T00:00:00",
+      "approvedTerm": "F2009",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "SIGN 2A - Intermediate American Sign Language",
+      "transferAreas": [
+        "3B"
+      ],
+      "approvedDate": "2010-10-01T00:00:00",
+      "approvedTerm": "F2010",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "ARTP 14 - History of Photography",
+      "transferAreas": [
+        "3A"
+      ],
+      "approvedDate": "2013-10-01T00:00:00",
+      "approvedTerm": "F2013",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "HIST 20 - History of Mexico",
+      "transferAreas": [
+        "3B",
+        "4"
+      ],
+      "approvedDate": "1999-10-01T00:00:00",
+      "approvedTerm": "F1999",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "GEOL 2L - Physical Geology Laboratory",
+      "transferAreas": [
+        "5C"
+      ],
+      "approvedDate": "2016-10-01T00:00:00",
+      "approvedTerm": "F2016",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "PSYC 38 - Biological Psychology",
+      "transferAreas": [
+        "4",
+        "5B"
+      ],
+      "approvedDate": "2000-04-01T00:00:00",
+      "approvedTerm": "S2000",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "ASTR 10L - Introduction to Astronomy Laboratory",
+      "transferAreas": [
+        "5C"
+      ],
+      "approvedDate": "2000-04-01T00:00:00",
+      "approvedTerm": "S2000",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "BIOL 32 - Environmental Science Lab",
+      "transferAreas": [
+        "5C"
+      ],
+      "approvedDate": "2007-04-01T00:00:00",
+      "approvedTerm": "S2007",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "ETNC 18 - Chicanos in American Politics",
+      "transferAreas": [
+        "4"
+      ],
+      "approvedDate": "2024-10-01T00:00:00",
+      "approvedTerm": "F2024",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "SPAN 5 - Literature of the Spanish-Speaking World",
+      "transferAreas": [
+        "3B"
+      ],
+      "approvedDate": "2019-10-01T00:00:00",
+      "approvedTerm": "F2019",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "HIST 8 - World History Since 1500",
+      "transferAreas": [
+        "3B",
+        "4"
+      ],
+      "approvedDate": "2013-10-01T00:00:00",
+      "approvedTerm": "F2013",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "HIST 7 - World History 1500",
+      "transferAreas": [
+        "4",
+        "3B"
+      ],
+      "approvedDate": "2013-10-01T00:00:00",
+      "approvedTerm": "F2013",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "HIST 6 - History of World Religions",
+      "transferAreas": [
+        "3B"
+      ],
+      "approvedDate": "2008-10-01T00:00:00",
+      "approvedTerm": "F2008",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "ENGL 11 - Literature By and About Women",
+      "transferAreas": [
+        "3B"
+      ],
+      "approvedDate": "2015-10-01T00:00:00",
+      "approvedTerm": "F2015",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "GWOS 11 - Literature By and About Women",
+      "transferAreas": [
+        "3B"
+      ],
+      "approvedDate": "2015-10-01T00:00:00",
+      "approvedTerm": "F2015",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "LING 10 - Foundations of Language",
+      "transferAreas": [
+        "3B"
+      ],
+      "approvedDate": "2007-10-01T00:00:00",
+      "approvedTerm": "F2007",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "LING 15 - Introduction to Linguistics",
+      "transferAreas": [
+        "4",
+        "3B"
+      ],
+      "approvedDate": "2007-10-01T00:00:00",
+      "approvedTerm": "F2007",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "ENGL 43 - Comics as Literature",
+      "transferAreas": [
+        "3B"
+      ],
+      "approvedDate": "2007-10-01T00:00:00",
+      "approvedTerm": "F2007",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "LING 45 - Introduction to Language and Society",
+      "transferAreas": [
+        "4"
+      ],
+      "approvedDate": "2012-10-01T00:00:00",
+      "approvedTerm": "F2012",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "PHIL 8 - Introduction to World Religions",
+      "transferAreas": [
+        "3B"
+      ],
+      "approvedDate": "2008-10-01T00:00:00",
+      "approvedTerm": "F2008",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "LING 25 - Introduction to Language and Gender",
+      "transferAreas": [
+        "3B",
+        "4"
+      ],
+      "approvedDate": "2016-04-01T00:00:00",
+      "approvedTerm": "S2016",
+      "removedDate": "2026-10-01T00:00:00",
+      "removedTerm": "F2026",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "ANTH 2L - Biological Anthropology Laboratory",
+      "transferAreas": [
+        "5C"
+      ],
+      "approvedDate": "2013-10-01T00:00:00",
+      "approvedTerm": "F2013",
+      "removedDate": "2026-10-01T00:00:00",
+      "removedTerm": "F2026",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "LING 30 - Introduction to the History of the English Language",
+      "transferAreas": [
+        "3B",
+        "4"
+      ],
+      "approvedDate": "2009-10-01T00:00:00",
+      "approvedTerm": "F2009",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "ENGL 5 - Introduction to Great Books",
+      "transferAreas": [
+        "3B"
+      ],
+      "approvedDate": "2009-10-01T00:00:00",
+      "approvedTerm": "F2009",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "ETNC 24 - African Americans in U.S. History to 1877",
+      "transferAreas": [
+        "3B",
+        "4"
+      ],
+      "approvedDate": "2023-10-01T00:00:00",
+      "approvedTerm": "F2023",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "ETNC 25 - African Americans in U.S. History 1865 to Present",
+      "transferAreas": [
+        "3B",
+        "4"
+      ],
+      "approvedDate": "2023-10-01T00:00:00",
+      "approvedTerm": "F2023",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "HIST 24 - African Americans in U.S. History to 1877",
+      "transferAreas": [
+        "3B",
+        "4"
+      ],
+      "approvedDate": "2023-10-01T00:00:00",
+      "approvedTerm": "F2023",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "HIST 25 - African Americans in U.S. History 1865 to Present",
+      "transferAreas": [
+        "3B",
+        "4"
+      ],
+      "approvedDate": "2023-10-01T00:00:00",
+      "approvedTerm": "F2023",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "OCEN 2L - Introductory Oceanography Lab",
+      "transferAreas": [
+        "5C"
+      ],
+      "approvedDate": "2010-10-01T00:00:00",
+      "approvedTerm": "F2010",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "SPCH 10 - Introduction to Communication Theory",
+      "transferAreas": [
+        "4"
+      ],
+      "approvedDate": "2011-10-01T00:00:00",
+      "approvedTerm": "F2011",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "LING 46 - Introduction to Psychology of Language",
+      "transferAreas": [
+        "4"
+      ],
+      "approvedDate": "2018-10-01T00:00:00",
+      "approvedTerm": "F2018",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "SOCI 14 - Sociology of Latinos and Latinas",
+      "transferAreas": [
+        "4"
+      ],
+      "approvedDate": "2013-10-01T00:00:00",
+      "approvedTerm": "F2013",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "SOCI 11 - Mass Media and Popular Culture",
+      "transferAreas": [
+        "4"
+      ],
+      "approvedDate": "2013-10-01T00:00:00",
+      "approvedTerm": "F2013",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "ANTH 8 - Primate Behavioral Ecology",
+      "transferAreas": [
+        "4"
+      ],
+      "approvedDate": "2013-04-01T00:00:00",
+      "approvedTerm": "S2013",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "ETNC 22 - Asian Americans and Pacific Islanders in American Society",
+      "transferAreas": [
+        "4",
+        "6"
+      ],
+      "approvedDate": "2025-10-01T00:00:00",
+      "approvedTerm": "F2025",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "ARTH 14 - Renaissance Art and Architecture",
+      "transferAreas": [
+        "3A"
+      ],
+      "approvedDate": "2014-10-01T00:00:00",
+      "approvedTerm": "F2014",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "ARTH 12 - Greek and Roman Art and Architecture",
+      "transferAreas": [
+        "3A"
+      ],
+      "approvedDate": "2020-10-01T00:00:00",
+      "approvedTerm": "F2020",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "ENGL 40B - Survey of American Literature II",
+      "transferAreas": [
+        "3B"
+      ],
+      "approvedDate": "2014-10-01T00:00:00",
+      "approvedTerm": "F2014",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "SOCI 13 - Introduction to Race and Ethnicity",
+      "transferAreas": [
+        "4"
+      ],
+      "approvedDate": "2017-10-01T00:00:00",
+      "approvedTerm": "F2017",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "ETNC 6 - Ethnic Images in Film",
+      "transferAreas": [
+        "3B",
+        "4"
+      ],
+      "approvedDate": "2023-10-01T00:00:00",
+      "approvedTerm": "F2023",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "SOCI 17 - Introduction to Crime and Deviance",
+      "transferAreas": [
+        "4"
+      ],
+      "approvedDate": "2013-10-01T00:00:00",
+      "approvedTerm": "F2013",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "SOCI 12 - Introduction to Gender and Sexuality",
+      "transferAreas": [
+        "4"
+      ],
+      "approvedDate": "2013-10-01T00:00:00",
+      "approvedTerm": "F2013",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "ETNC 4 - Mexican-American and Chicano Art",
+      "transferAreas": [
+        "3A",
+        "3B"
+      ],
+      "approvedDate": "2023-10-01T00:00:00",
+      "approvedTerm": "F2023",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "GEOL 9 - Earth Catastrophes and Disasters",
+      "transferAreas": [
+        "5A"
+      ],
+      "approvedDate": "2014-10-01T00:00:00",
+      "approvedTerm": "F2014",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "LING 35 - Introduction to Nonverbal Communication",
+      "transferAreas": [
+        "4"
+      ],
+      "approvedDate": "2014-10-01T00:00:00",
+      "approvedTerm": "F2014",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "GEOL 3L - Historical Geology Laboratory",
+      "transferAreas": [
+        "5C"
+      ],
+      "approvedDate": "2021-10-01T00:00:00",
+      "approvedTerm": "F2021",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "SIGN 20 - Introduction to Deaf Culture",
+      "transferAreas": [
+        "4",
+        "3B"
+      ],
+      "approvedDate": "2015-10-01T00:00:00",
+      "approvedTerm": "F2015",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "GEOL 3 - Historical Geology",
+      "transferAreas": [
+        "5A"
+      ],
+      "approvedDate": "2015-10-01T00:00:00",
+      "approvedTerm": "F2015",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "GWOS 3 - Gender and Violence",
+      "transferAreas": [
+        "4"
+      ],
+      "approvedDate": "2016-04-01T00:00:00",
+      "approvedTerm": "S2016",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "PSYC 19 - Introduction to Statistics for the Social Sciences",
+      "transferAreas": [
+        "2"
+      ],
+      "approvedDate": "2017-10-01T00:00:00",
+      "approvedTerm": "F2017",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "ETNC 13 - Introduction to Race and Ethnicity",
+      "transferAreas": [
+        "4"
+      ],
+      "approvedDate": "2017-10-01T00:00:00",
+      "approvedTerm": "F2017",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "SOCI 19 - Introduction to Statistics for the Social Sciences",
+      "transferAreas": [
+        "2"
+      ],
+      "approvedDate": "2017-10-01T00:00:00",
+      "approvedTerm": "F2017",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "GWOS 5 - Women of Color in the U.S.",
+      "transferAreas": [
+        "3B",
+        "4"
+      ],
+      "approvedDate": "2017-10-01T00:00:00",
+      "approvedTerm": "F2017",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "GWOS 15 - Introduction to LGBTQ Global Literatures",
+      "transferAreas": [
+        "3B"
+      ],
+      "approvedDate": "2017-10-01T00:00:00",
+      "approvedTerm": "F2017",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "HIST 10 - Modern Latin America",
+      "transferAreas": [
+        "4",
+        "3B"
+      ],
+      "approvedDate": "2017-10-01T00:00:00",
+      "approvedTerm": "F2017",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "COMM 35 - Introduction to Nonverbal Communication",
+      "transferAreas": [
+        "4"
+      ],
+      "approvedDate": "2025-10-01T00:00:00",
+      "approvedTerm": "F2025",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "GLST 1 - Introduction to Global Studies",
+      "transferAreas": [
+        "4"
+      ],
+      "approvedDate": "2020-10-01T00:00:00",
+      "approvedTerm": "F2020",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "GLST 2 - Global Issues",
+      "transferAreas": [
+        "4"
+      ],
+      "approvedDate": "2020-10-01T00:00:00",
+      "approvedTerm": "F2020",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "SPAN 3S - Intermediate Spanish for Spanish Speakers I",
+      "transferAreas": [
+        "3B"
+      ],
+      "approvedDate": "2021-10-01T00:00:00",
+      "approvedTerm": "F2021",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "SPAN 4S - Intermediate Spanish for Spanish Speakers II",
+      "transferAreas": [
+        "3B"
+      ],
+      "approvedDate": "2021-10-01T00:00:00",
+      "approvedTerm": "F2021",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "ARTB 10 - Survey of the Arts",
+      "transferAreas": [
+        "3A"
+      ],
+      "approvedDate": "2019-10-01T00:00:00",
+      "approvedTerm": "F2019",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "GEOL 12 - Earth Ocean Climate: Introduction to Earth Science",
+      "transferAreas": [
+        "5A"
+      ],
+      "approvedDate": "2019-10-01T00:00:00",
+      "approvedTerm": "F2019",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "GEOL 12L - Earth Ocean Climate: Introduction to Earth Science Lab",
+      "transferAreas": [
+        "5C"
+      ],
+      "approvedDate": "2019-10-01T00:00:00",
+      "approvedTerm": "F2019",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "PHYS 12 - Integrated Physics and Chemistry",
+      "transferAreas": [
+        "5A",
+        "5C"
+      ],
+      "approvedDate": "2019-10-01T00:00:00",
+      "approvedTerm": "F2019",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "SPAN 50A - Intermediate Spanish Conversation I",
+      "transferAreas": [
+        "3B"
+      ],
+      "approvedDate": "2019-10-01T00:00:00",
+      "approvedTerm": "F2019",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "SPAN 50B - Intermediate Spanish Conversation II",
+      "transferAreas": [
+        "3B"
+      ],
+      "approvedDate": "2019-10-01T00:00:00",
+      "approvedTerm": "F2019",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "HIST 23 - Chicano History 1848 to Present",
+      "transferAreas": [
+        "3B",
+        "4"
+      ],
+      "approvedDate": "2020-10-01T00:00:00",
+      "approvedTerm": "F2020",
+      "removedDate": "2026-10-01T00:00:00",
+      "removedTerm": "F2026",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "SPAN 18 - Spanish Through Film",
+      "transferAreas": [
+        "3B"
+      ],
+      "approvedDate": "2021-10-01T00:00:00",
+      "approvedTerm": "F2021",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "SPAN 22 - Spanish Composition and Conversation",
+      "transferAreas": [
+        "3B"
+      ],
+      "approvedDate": "2021-10-01T00:00:00",
+      "approvedTerm": "F2021",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "ETNC 23 - Chicano History 1848 to Present",
+      "transferAreas": [
+        "3B",
+        "4"
+      ],
+      "approvedDate": "2020-10-01T00:00:00",
+      "approvedTerm": "F2020",
+      "removedDate": "2026-10-01T00:00:00",
+      "removedTerm": "F2026",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "KINS 44 - Sport in Society",
+      "transferAreas": [
+        "4"
+      ],
+      "approvedDate": "2020-10-01T00:00:00",
+      "approvedTerm": "F2020",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "ENGL 48 - Latin American Literature",
+      "transferAreas": [
+        "3B"
+      ],
+      "approvedDate": "2020-10-01T00:00:00",
+      "approvedTerm": "F2020",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "KINS 48 - Psychology of Fitness and Sport Performance",
+      "transferAreas": [
+        "4"
+      ],
+      "approvedDate": "2020-10-01T00:00:00",
+      "approvedTerm": "F2020",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "THEA 10 - History of Film: 1950s to Present",
+      "transferAreas": [
+        "3A",
+        "3B"
+      ],
+      "approvedDate": "2020-10-01T00:00:00",
+      "approvedTerm": "F2020",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "THEA 6 - Script Analysis",
+      "transferAreas": [
+        "3A"
+      ],
+      "approvedDate": "2020-10-01T00:00:00",
+      "approvedTerm": "F2020",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "THEA 9 - History of Film: 1880s through 1950s",
+      "transferAreas": [
+        "3A",
+        "3B"
+      ],
+      "approvedDate": "2020-10-01T00:00:00",
+      "approvedTerm": "F2020",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "DANC 5 - Dance Appreciation",
+      "transferAreas": [
+        "3A"
+      ],
+      "approvedDate": "2021-10-01T00:00:00",
+      "approvedTerm": "F2021",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "SPAN 45 - Hispanic and Latino/a Culture",
+      "transferAreas": [
+        "3B"
+      ],
+      "approvedDate": "2022-10-01T00:00:00",
+      "approvedTerm": "F2022",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "POLS 11 - Politics of Migration and Citizenship",
+      "transferAreas": [
+        "4"
+      ],
+      "approvedDate": "2022-10-01T00:00:00",
+      "approvedTerm": "F2022",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "POLS 12 - Politics in Film",
+      "transferAreas": [
+        "3B"
+      ],
+      "approvedDate": "2022-10-01T00:00:00",
+      "approvedTerm": "F2022",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "POLS 14 - Introduction to the Politics of Identity",
+      "transferAreas": [
+        "4"
+      ],
+      "approvedDate": "2023-10-01T00:00:00",
+      "approvedTerm": "F2023",
+      "removedDate": "2026-10-01T00:00:00",
+      "removedTerm": "F2026",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "DANC 6 - World Cultural Dance",
+      "transferAreas": [
+        "3A"
+      ],
+      "approvedDate": "2023-10-01T00:00:00",
+      "approvedTerm": "F2023",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "LING 18 - Introduction to Linguistic Anthropology",
+      "transferAreas": [
+        "4"
+      ],
+      "approvedDate": "2023-10-01T00:00:00",
+      "approvedTerm": "F2023",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "MATH 13A - College Algebra for STEM",
+      "transferAreas": [
+        "2"
+      ],
+      "approvedDate": "2023-10-01T00:00:00",
+      "approvedTerm": "F2023",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "GWOS 8 - Introduction to LGBTQ+ Studies",
+      "transferAreas": [
+        "4"
+      ],
+      "approvedDate": "2023-10-01T00:00:00",
+      "approvedTerm": "F2023",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "GWOS 9 - Sports and Social Justice",
+      "transferAreas": [
+        "4"
+      ],
+      "approvedDate": "2023-10-01T00:00:00",
+      "approvedTerm": "F2023",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "ENGL 63 - Introduction to Science Fiction",
+      "transferAreas": [
+        "3B"
+      ],
+      "approvedDate": "2024-10-01T00:00:00",
+      "approvedTerm": "F2024",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    },
+    {
+      "course": "POLS 20 - Introduction to Law and Society",
+      "transferAreas": [
+        "4"
+      ],
+      "approvedDate": "2024-10-01T00:00:00",
+      "approvedTerm": "F2024",
+      "removedDate": "2070-10-01T00:00:00",
+      "removedTerm": "",
+      "isCurrentlyApproved": true
+    }
+  ]
+}

@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 """
-Fetch CSU GE transferability data from ASSIST and write csu_transfers.json
+Fetch CALGETC (IGETC) transferability data from ASSIST and write JSON.
+
+Endpoint pattern:
+https://www.assist.org/api/transferability/courses?institutionId=133&academicYearId=76&listType=CALGETC
 
 Includes:
 - course name
@@ -24,7 +27,7 @@ from typing import Optional
 
 def fetch_api_data(url: str) -> dict:
     headers = {
-        "User-Agent": "csu-transfer-scraper/1.0",
+        "User-Agent": "assist-transfer-scraper/1.0",
         "Accept": "application/json",
     }
     response = requests.get(url, headers=headers, timeout=30)
@@ -34,11 +37,11 @@ def fetch_api_data(url: str) -> dict:
 
 def is_currently_approved(end_date_str: Optional[str]) -> bool:
     """
-    A course is considered currently approved if:
-    - endDate is missing/null, OR
+    Consider currently approved if:
+    - endDate is missing/null OR
     - endDate is in the future
 
-    ASSIST dates are timezone-naive, so compare against datetime.utcnow().
+    ASSIST timestamps are typically timezone-naive.
     """
     if not end_date_str:
         return True
@@ -47,7 +50,6 @@ def is_currently_approved(end_date_str: Optional[str]) -> bool:
         end_dt = datetime.fromisoformat(end_date_str)
         return end_dt > datetime.utcnow()
     except ValueError:
-        # Fail safe: malformed date => not approved
         return False
 
 
@@ -55,7 +57,7 @@ def is_currently_approved(end_date_str: Optional[str]) -> bool:
 # Core logic
 # ---------------------------
 
-def get_csu_ge_courses(institution_id: int, academic_year_id: int, list_type: str) -> dict:
+def get_transfer_courses(institution_id: int, academic_year_id: int, list_type: str) -> dict:
     url = (
         "https://www.assist.org/api/transferability/courses"
         f"?institutionId={institution_id}"
@@ -66,7 +68,6 @@ def get_csu_ge_courses(institution_id: int, academic_year_id: int, list_type: st
     data = fetch_api_data(url)
 
     courses_out = []
-
     for c in data.get("courseInformationList", []) or []:
         identifier = (c.get("identifier") or "").strip()
         title = (c.get("courseTitle") or "").strip()
@@ -94,6 +95,7 @@ def get_csu_ge_courses(institution_id: int, academic_year_id: int, list_type: st
         "institutionName": data.get("institutionName"),
         "academicYear": (data.get("academicYear") or {}).get("code"),
         "listType": data.get("listType"),
+        "listTypeRequested": list_type,
         "courses": courses_out,
     }
 
@@ -103,7 +105,7 @@ def get_csu_ge_courses(institution_id: int, academic_year_id: int, list_type: st
 # ---------------------------
 
 def main(institution_id: int, academic_year_id: int, list_type: str, out_file: str):
-    result = get_csu_ge_courses(institution_id, academic_year_id, list_type)
+    result = get_transfer_courses(institution_id, academic_year_id, list_type)
 
     # Write output next to this script unless absolute path is provided
     if os.path.isabs(out_file):
@@ -115,14 +117,16 @@ def main(institution_id: int, academic_year_id: int, list_type: str, out_file: s
         json.dump(result, f, indent=2)
 
     print(f"Saved {len(result['courses'])} courses to {out_path}")
+    if result.get("institutionName") and result.get("academicYear"):
+        print(f"{result['institutionName']} ({result['academicYear']})")
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Build CSU GE transfer list from ASSIST API")
+    parser = argparse.ArgumentParser(description="Build CALGETC (IGETC) transfer list from ASSIST API")
     parser.add_argument("--institutionId", type=int, default=133)
     parser.add_argument("--academicYearId", type=int, default=76)
-    parser.add_argument("--listType", default="CSUGE")
-    parser.add_argument("--out", default="csu_transfers.json")
+    parser.add_argument("--listType", default="CALGETC")  # <-- default switched
+    parser.add_argument("--out", default="calgetc_transfers.json")  # <-- default output name
     args = parser.parse_args()
 
     main(args.institutionId, args.academicYearId, args.listType, args.out)
