@@ -1,0 +1,6418 @@
+{
+  "from_college": "Victor Valley College",
+  "to_college": "California Polytechnic University, San Luis Obispo",
+  "academic_year": "2024-2025",
+  "transfers": [
+    {
+      "from_course": "AERO 121",
+      "course_title": "Aerospace Fundamentals",
+      "units": 2.0,
+      "department": "Aerospace Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "AERO 215",
+      "course_title": "Introduction to Aerospace Design",
+      "units": 2.0,
+      "department": "Aerospace Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "AERO 220",
+      "course_title": "Aerospace Systems Engineering and Integration",
+      "units": 1.0,
+      "department": "Aerospace Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "AERO 299",
+      "course_title": "Aerospace Thermodynamics",
+      "units": 4.0,
+      "department": "Aerospace Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "AG 243",
+      "course_title": "Theory and Practice of Rodeo",
+      "units": 2.0,
+      "department": "Agriculture",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "AGB 101",
+      "course_title": "Introduction to Agribusiness",
+      "units": 4.0,
+      "department": "Agribusiness",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "AGB 202",
+      "course_title": "Introduction to Sales",
+      "units": 4.0,
+      "department": "Agribusiness",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "AGB 212",
+      "course_title": "Agricultural Economics",
+      "units": 4.0,
+      "department": "Agribusiness",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "AGB 214",
+      "course_title": "Agribusiness Financial Accounting",
+      "units": 4.0,
+      "department": "Agribusiness",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "AGB 260",
+      "course_title": "Agribusiness Data Literacy",
+      "units": 4.0,
+      "department": "Agribusiness",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "AGC 102",
+      "course_title": "Orientation to Agricultural Communication & Agricultural Science",
+      "units": 2.0,
+      "department": "Agricultural Education and Communication",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "AGC 205",
+      "course_title": "Agricultural Commmunications",
+      "units": 4.0,
+      "department": "Agricultural Education and Communication",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "AGC 207",
+      "course_title": "Software Applications for Agricultural Publications",
+      "units": 2.0,
+      "department": "Agricultural Education and Communication",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "AGC 225",
+      "course_title": "Digital Communication in Agriculture and Science",
+      "units": 4.0,
+      "department": "Agricultural Education and Communication",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "AGC 254",
+      "course_title": "Introduction to Agricultural Leadership",
+      "units": 2.0,
+      "department": "Agricultural Education and Communication",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "AGED 220",
+      "course_title": "Agriculture Youth Conferences",
+      "units": 2.0,
+      "department": "Agricultural Education and Communication",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ANT 201",
+      "course_title": "Cultural Anthropology",
+      "units": 4.0,
+      "department": "Social Sciences",
+      "transfers_to": [
+        "ANTH 102: Introduction to Cultural Anthropology"
+      ]
+    },
+    {
+      "from_course": "ANT 202",
+      "course_title": "World Prehistory Before Writing",
+      "units": 4.0,
+      "department": "Social Sciences",
+      "transfers_to": [
+        "ANTH 103: Introduction to Archeology"
+      ]
+    },
+    {
+      "from_course": "ANT 250",
+      "course_title": "Biological Anthropology",
+      "units": 4.0,
+      "department": "Social Sciences",
+      "transfers_to": [
+        "ANTH 101: Introduction to Physical Anthropology"
+      ]
+    },
+    {
+      "from_course": "ARCE 106",
+      "course_title": "Introduction to Building Systems",
+      "units": 2.0,
+      "department": "Architectural Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ARCE 211",
+      "course_title": "Structures I",
+      "units": 3.0,
+      "department": "Architectural Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ARCE 212",
+      "course_title": "Structures II",
+      "units": 3.0,
+      "department": "Architectural Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ARCE 223",
+      "course_title": "Mechanics of Structural Members",
+      "units": 3.0,
+      "department": "Architectural Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ARCE 224",
+      "course_title": "Mechanics of Structural Members Laboratory",
+      "units": 1.0,
+      "department": "Architectural Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ARCE 226",
+      "course_title": "Introduction to Structural Systems",
+      "units": 3.0,
+      "department": "Architectural Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ARCE 227",
+      "course_title": "Structures III",
+      "units": 2.0,
+      "department": "Architectural Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ARCE 257",
+      "course_title": "Structural CAD for Building Design",
+      "units": 2.0,
+      "department": "Architectural Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ARCE 260",
+      "course_title": "History of Structures",
+      "units": 4.0,
+      "department": "Architectural Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ARCH 101",
+      "course_title": "Survey of Architectural Education and Practice",
+      "units": 3.0,
+      "department": "Architecture",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ARCH 131",
+      "course_title": "Design and Visual Communication 1.1",
+      "units": 4.0,
+      "department": "Architecture",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ARCH 132",
+      "course_title": "Design and Visual Communication 1.2",
+      "units": 4.0,
+      "department": "Architecture",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ARCH 133",
+      "course_title": "Design and Visual Communication 1.3",
+      "units": 4.0,
+      "department": "Architecture",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ARCH 201",
+      "course_title": "Architecture Design Studio for Non-Majors",
+      "units": 4.0,
+      "department": "Architecture",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ARCH 207",
+      "course_title": "Architectural Technology Fundamentals 2.3",
+      "units": 4.0,
+      "department": "Architecture",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ARCH 217",
+      "course_title": "History of World Architecture: Prehistory- Middle Ages",
+      "units": 4.0,
+      "department": "Architecture",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ARCH 218",
+      "course_title": "History of World Architecture: Middle Ages- 18th Century",
+      "units": 4.0,
+      "department": "Architecture",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ARCH 219",
+      "course_title": "History of World Architecture: 18th Century- Present",
+      "units": 4.0,
+      "department": "Architecture",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ARCH 241",
+      "course_title": "Architectural Technology Fundamentals 2.1",
+      "units": 4.0,
+      "department": "Architecture",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ARCH 242",
+      "course_title": "Architectural Technology Fundamentals 2.2",
+      "units": 4.0,
+      "department": "Architecture",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ARCH 251",
+      "course_title": "Architectural Design 2.1",
+      "units": 5.0,
+      "department": "Architecture",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ARCH 252",
+      "course_title": "Architectural Design 2.2",
+      "units": 5.0,
+      "department": "Architecture",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ARCH 253",
+      "course_title": "Architectural Design 2.3",
+      "units": 5.0,
+      "department": "Architecture",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ART 101",
+      "course_title": "The Fundamentals of Drawing",
+      "units": 4.0,
+      "department": "Art and Design",
+      "transfers_to": [
+        "ART 125: Drawing I"
+      ]
+    },
+    {
+      "from_course": "ART 102",
+      "course_title": "Art and Design Foundation Studies I",
+      "units": 4.0,
+      "department": "Art and Design",
+      "transfers_to": [
+        "ART 112: Design I"
+      ]
+    },
+    {
+      "from_course": "ART 104",
+      "course_title": "Art and Design Foundation Studies II",
+      "units": 4.0,
+      "department": "Art and Design",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ART 111",
+      "course_title": "Introduction to the Visual Arts",
+      "units": 4.0,
+      "department": "Art and Design",
+      "transfers_to": [
+        "ART 105: Introduction to Art"
+      ]
+    },
+    {
+      "from_course": "ART 112",
+      "course_title": "Western Art: A Thematic History",
+      "units": 4.0,
+      "department": "Art and Design",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ART 122",
+      "course_title": "Introduction to Digital Photography",
+      "units": 4.0,
+      "department": "Art and Design",
+      "transfers_to": [
+        "PHOT 100: Beginning Photography"
+      ]
+    },
+    {
+      "from_course": "ART 145",
+      "course_title": "Ceramics I",
+      "units": 4.0,
+      "department": "Art and Design",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ART 148",
+      "course_title": "Beginning Sculpture",
+      "units": 4.0,
+      "department": "Art and Design",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ART 182",
+      "course_title": "Foundation in Digital Art I",
+      "units": 4.0,
+      "department": "Art and Design",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ART 183",
+      "course_title": "Foundation in Digital Art II",
+      "units": 4.0,
+      "department": "Art and Design",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ART 201",
+      "course_title": "Intermediate Drawing",
+      "units": 4.0,
+      "department": "Art and Design",
+      "transfers_to": [
+        "ART 126: Drawing II"
+      ]
+    },
+    {
+      "from_course": "ART 203",
+      "course_title": "Art Theory and Practice",
+      "units": 4.0,
+      "department": "Art and Design",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ART 209",
+      "course_title": "Beginning Painting",
+      "units": 4.0,
+      "department": "Art and Design",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ART 211",
+      "course_title": "Art History-Ancient to Renaissance",
+      "units": 4.0,
+      "department": "Art and Design",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ART 212",
+      "course_title": "Art History-Renaissance through Baroque Eras",
+      "units": 4.0,
+      "department": "Art and Design",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ART 213",
+      "course_title": "Art History - Modern Art, 1900-1945",
+      "units": 4.0,
+      "department": "Art and Design",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ART 222",
+      "course_title": "Black and White Photography",
+      "units": 4.0,
+      "department": "Art and Design",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ART 224",
+      "course_title": "Introduction to Artificial Lighting for Photography",
+      "units": 4.0,
+      "department": "Art and Design",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ART 227",
+      "course_title": "Portrait Photography",
+      "units": 4.0,
+      "department": "Art and Design",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ART 237",
+      "course_title": "Graphic Design I",
+      "units": 4.0,
+      "department": "Art and Design",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ART 238",
+      "course_title": "Typography I",
+      "units": 4.0,
+      "department": "Art and Design",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ART 260",
+      "course_title": "Critique, Discourse and Practice",
+      "units": 4.0,
+      "department": "Art and Design",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ART 288",
+      "course_title": "Interaction Design I",
+      "units": 4.0,
+      "department": "Art and Design",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ASCI 101",
+      "course_title": "Introduction to the Animal Sciences",
+      "units": 2.0,
+      "department": "Animal Science",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ASCI 112",
+      "course_title": "Principles of Animal Science",
+      "units": 4.0,
+      "department": "Animal Science",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ASCI 203",
+      "course_title": "Animal Parasitology",
+      "units": 3.0,
+      "department": "Animal Science",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ASCI 211",
+      "course_title": "Meat Science",
+      "units": 4.0,
+      "department": "Animal Science",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ASCI 212",
+      "course_title": "Livestock Show Management",
+      "units": 3.0,
+      "department": "Animal Science",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ASCI 214",
+      "course_title": "Equine Management",
+      "units": 2.0,
+      "department": "Animal Science",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ASCI 215",
+      "course_title": "Safe Handling of Animal-Based Foods for Consumers",
+      "units": 4.0,
+      "department": "Animal Science",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ASCI 220",
+      "course_title": "Introductory Animal Nutrition and Feeding",
+      "units": 4.0,
+      "department": "Animal Science",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ASCI 221",
+      "course_title": "Introduction to Beef Production",
+      "units": 4.0,
+      "department": "Animal Science",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ASCI 222",
+      "course_title": "Systems of Swine Production",
+      "units": 4.0,
+      "department": "Animal Science",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ASCI 223",
+      "course_title": "Systems of Small Ruminant Management",
+      "units": 4.0,
+      "department": "Animal Science",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ASCI 224",
+      "course_title": "Equine Science",
+      "units": 4.0,
+      "department": "Animal Science",
+      "transfers_to": [
+        "AGNR 102: Equine Science"
+      ]
+    },
+    {
+      "from_course": "ASCI 225",
+      "course_title": "Introduction to Poultry Management",
+      "units": 4.0,
+      "department": "Animal Science",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ASCI 226",
+      "course_title": "Livestock Evaluation",
+      "units": 3.0,
+      "department": "Animal Science",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ASCI 227",
+      "course_title": "Companion Animal Science",
+      "units": 4.0,
+      "department": "Animal Science",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ASCI 228",
+      "course_title": "Equine Evaluation",
+      "units": 2.0,
+      "department": "Animal Science",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ASCI 229",
+      "course_title": "Anatomy and Physiology of Farm Animals",
+      "units": 4.0,
+      "department": "Animal Science",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ASCI 232",
+      "course_title": "General Animal Science Laboratory",
+      "units": 1.0,
+      "department": "Animal Science",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ASCI 239",
+      "course_title": "Principles of Rangeland Management",
+      "units": 4.0,
+      "department": "Animal Science",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ASCI 260",
+      "course_title": "Preparation of Livestock for Shows and Sales",
+      "units": 3.0,
+      "department": "Animal Science",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ASCI 265",
+      "course_title": "Equine Behavior and Training",
+      "units": 3.0,
+      "department": "Animal Science",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ASTR 101",
+      "course_title": "Introduction to the Solar System",
+      "units": 4.0,
+      "department": "Physics",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ASTR 102",
+      "course_title": "Introduction to Stars and Galaxies",
+      "units": 4.0,
+      "department": "Physics",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "BIO 111",
+      "course_title": "General Biology",
+      "units": 4.0,
+      "department": "Biological Sciences",
+      "transfers_to": [
+        "BIOL 100: General Biology"
+      ]
+    },
+    {
+      "from_course": "BIO 114",
+      "course_title": "Plant Diversity and Ecology",
+      "units": 4.0,
+      "department": "Biological Sciences",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "BIO 123",
+      "course_title": "Biology of Sex",
+      "units": 4.0,
+      "department": "Biological Sciences",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "BIO 150",
+      "course_title": "Diversity and the History of Life",
+      "units": 4.0,
+      "department": "Biological Sciences",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "BIO 161",
+      "course_title": "Introduction to Cell and Molecular Biology",
+      "units": 4.0,
+      "department": "Biological Sciences",
+      "transfers_to": [
+        "BIOL 201: Biology of Cells"
+      ]
+    },
+    {
+      "from_course": "BIO 162",
+      "course_title": "Introduction to Organismal Form and Function",
+      "units": 4.0,
+      "department": "Biological Sciences",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "BIO 202",
+      "course_title": "Orientation to Biotechnology",
+      "units": 2.0,
+      "department": "Biological Sciences",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "BIO 211",
+      "course_title": "Biology of Plants and Animals",
+      "units": 4.0,
+      "department": "Biological Sciences",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "BIO 213",
+      "course_title": "Life Science for Engineers",
+      "units": 2.0,
+      "department": "Biological Sciences",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "BIO 222",
+      "course_title": "Biodiversity of California",
+      "units": 4.0,
+      "department": "Biological Sciences",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "BIO 227",
+      "course_title": "Wildlife Conservation Biology",
+      "units": 4.0,
+      "department": "Biological Sciences",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "BIO 231",
+      "course_title": "Human Anatomy and Physiology I",
+      "units": 5.0,
+      "department": "Biological Sciences",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "BIO 232",
+      "course_title": "Human Anatomy and Physiology II",
+      "units": 5.0,
+      "department": "Biological Sciences",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "BIO 253",
+      "course_title": "Health Professions Shadowing",
+      "units": 1.0,
+      "department": "Biological Sciences",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "BIO 263",
+      "course_title": "Introductory Ecology and Evolution",
+      "units": 4.0,
+      "department": "Biological Sciences",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "BMED 101",
+      "course_title": "Introduction to the Biomedical Engineering Major",
+      "units": 1.0,
+      "department": "Biomedical Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "BMED 102",
+      "course_title": "Introduction to Biomedical Engineering Analysis",
+      "units": 1.0,
+      "department": "Biomedical Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "BMED 212",
+      "course_title": "Introduction to Biomedical Engineering Design",
+      "units": 3.0,
+      "department": "Biomedical Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "BMED 213",
+      "course_title": "Bioengineering Fundamentals",
+      "units": 2.0,
+      "department": "Biomedical Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "BOT 121",
+      "course_title": "General Botany",
+      "units": 4.0,
+      "department": "Biological Sciences",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "BRAE 121",
+      "course_title": "Agricultural Mechanics",
+      "units": 2.0,
+      "department": "Bioresource and Agricultural Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "BRAE 128",
+      "course_title": "Careers in Bioresource and Agricultural Engineering",
+      "units": 2.0,
+      "department": "Bioresource and Agricultural Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "BRAE 129",
+      "course_title": "Laboratory Skills and Safety",
+      "units": 1.0,
+      "department": "Bioresource and Agricultural Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "BRAE 141",
+      "course_title": "Agricultural Machinery Safety",
+      "units": 3.0,
+      "department": "Bioresource and Agricultural Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "BRAE 142",
+      "course_title": "Agricultural Power and Machinery Mangement",
+      "units": 4.0,
+      "department": "Bioresource and Agricultural Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "BRAE 150",
+      "course_title": "Design Graphics and CAD for Agricultural Engineering",
+      "units": 2.0,
+      "department": "Bioresource and Agricultural Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "BRAE 152",
+      "course_title": "3-D Solids Modeling",
+      "units": 1.0,
+      "department": "Bioresource and Agricultural Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "BRAE 203",
+      "course_title": "Agricultural Systems Analysis",
+      "units": 4.0,
+      "department": "Bioresource and Agricultural Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "BRAE 213",
+      "course_title": "Bioengineering Fundamentals",
+      "units": 2.0,
+      "department": "Bioresource and Agricultural Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "BRAE 216",
+      "course_title": "Fundamentals of Electricity",
+      "units": 4.0,
+      "department": "Bioresource and Agricultural Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "BRAE 220",
+      "course_title": "Introduction to Biological Systems",
+      "units": 4.0,
+      "department": "Bioresource and Agricultural Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "BRAE 232",
+      "course_title": "Agricultural Structures Planning",
+      "units": 4.0,
+      "department": "Bioresource and Agricultural Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "BRAE 234",
+      "course_title": "Introduction to Mechanical Systems in Agriculture",
+      "units": 4.0,
+      "department": "Bioresource and Agricultural Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "BRAE 236",
+      "course_title": "Principles of Irrigation",
+      "units": 4.0,
+      "department": "Bioresource and Agricultural Engineering",
+      "transfers_to": [
+        "AGNR 152: Introduction to Irrigation"
+      ]
+    },
+    {
+      "from_course": "BRAE 237",
+      "course_title": "Introduction to Engineering Surveying",
+      "units": 2.0,
+      "department": "Bioresource and Agricultural Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "BRAE 239",
+      "course_title": "Engineering Surveying",
+      "units": 4.0,
+      "department": "Bioresource and Agricultural Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "BRAE 244",
+      "course_title": "Precision Farming",
+      "units": 4.0,
+      "department": "Bioresource and Agricultural Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "BRAE 247",
+      "course_title": "Forest Surveying",
+      "units": 2.0,
+      "department": "Bioresource and Agricultural Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "BUS 204",
+      "course_title": "Financial Literacy",
+      "units": 4.0,
+      "department": "Business",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "BUS 206",
+      "course_title": "Business Professionalism and Career Readiness",
+      "units": 2.0,
+      "department": "Business",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "BUS 207",
+      "course_title": "Legal Responsibilities of Business",
+      "units": 4.0,
+      "department": "Business",
+      "transfers_to": [
+        "BADM 117: Legal Environment of Business"
+      ]
+    },
+    {
+      "from_course": "BUS 212",
+      "course_title": "Financial Accounting for Nonbusiness Majors",
+      "units": 4.0,
+      "department": "Business",
+      "transfers_to": [
+        "BADM 101: Financial Accounting"
+      ]
+    },
+    {
+      "from_course": "BUS 214",
+      "course_title": "Financial Accounting",
+      "units": 4.0,
+      "department": "Business",
+      "transfers_to": [
+        "BADM 104: Managerial Accounting",
+        "BADM 102: Managerial Accounting"
+      ]
+    },
+    {
+      "from_course": "BUS 215",
+      "course_title": "Managerial Accounting",
+      "units": 4.0,
+      "department": "Business",
+      "transfers_to": [
+        "BADM 105: Managerial Accounting"
+      ]
+    },
+    {
+      "from_course": "BUS 220",
+      "course_title": "Business Basics for Entrepreneurs",
+      "units": 4.0,
+      "department": "Business",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "BUS 234",
+      "course_title": "Introduction to Design Thinking",
+      "units": 4.0,
+      "department": "Business",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "CD 102",
+      "course_title": "Orientation to the Child Development Major",
+      "units": 2.0,
+      "department": "Psychology and Child Development",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "CD 131",
+      "course_title": "Observing and Interacting with Children",
+      "units": 4.0,
+      "department": "Psychology and Child Development",
+      "transfers_to": [
+        "CHDV 160: Observation and Assessment"
+      ]
+    },
+    {
+      "from_course": "CD 207",
+      "course_title": "Children's Learning and Development in Educational Settings",
+      "units": 4.0,
+      "department": "Psychology and Child Development",
+      "transfers_to": [
+        "CHDV 110: Principles and Practices"
+      ]
+    },
+    {
+      "from_course": "CD 230",
+      "course_title": "Preschool Laboratory",
+      "units": 4.0,
+      "department": "Psychology and Child Development",
+      "transfers_to": [
+        "CHDV 210: Practicum"
+      ]
+    },
+    {
+      "from_course": "CD 254",
+      "course_title": "Family Psychology",
+      "units": 4.0,
+      "department": "Psychology and Child Development",
+      "transfers_to": [
+        "CHDV 106: Child, Family and Community"
+      ]
+    },
+    {
+      "from_course": "CD 256",
+      "course_title": "Developmental Psychology",
+      "units": 4.0,
+      "department": "Psychology and Child Development",
+      "transfers_to": [
+        "PSYC 110: Developmental Psychology"
+      ]
+    },
+    {
+      "from_course": "CE 111",
+      "course_title": "Introduction to Civil Engineering",
+      "units": 1.0,
+      "department": "Civil and Environmental Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "CE 112",
+      "course_title": "Design Principles in Civil Engineering",
+      "units": 2.0,
+      "department": "Civil and Environmental Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "CE 113",
+      "course_title": "Computer Aided Drafting in Civil Engineering",
+      "units": 2.0,
+      "department": "Civil and Environmental Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "CE 204",
+      "course_title": "Mechanics of Materials I",
+      "units": 3.0,
+      "department": "Civil and Environmental Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "CE 207",
+      "course_title": "Mechanics of Materials II",
+      "units": 2.0,
+      "department": "Civil and Environmental Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "CE 208",
+      "course_title": "Mechanics of Materials",
+      "units": 5.0,
+      "department": "Civil and Environmental Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "CE 222",
+      "course_title": "Introductory Experiments in Transportation Engineering",
+      "units": 1.0,
+      "department": "Civil and Environmental Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "CE 251",
+      "course_title": "Programming Applications in Engineering",
+      "units": 2.0,
+      "department": "Civil and Environmental Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "CE 259",
+      "course_title": "Civil Engineering Materials",
+      "units": 2.0,
+      "department": "Civil and Environmental Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "CHEM 101",
+      "course_title": "Introduction to the Chemical Sciences",
+      "units": 1.0,
+      "department": "Chemistry and Biochemistry",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "CHEM 110",
+      "course_title": "World of Chemistry",
+      "units": 4.0,
+      "department": "Chemistry and Biochemistry",
+      "transfers_to": [
+        "CHEM 201: General Chemistry"
+      ]
+    },
+    {
+      "from_course": "CHEM 124",
+      "course_title": "General Chemistry for Physical Science and Engineering I",
+      "units": 4.0,
+      "department": "Chemistry and Biochemistry",
+      "transfers_to": [
+        "CHEM 201: General Chemistry"
+      ]
+    },
+    {
+      "from_course": "CHEM 125",
+      "course_title": "General Chemistry for Physical Science and Engineering II",
+      "units": 4.0,
+      "department": "Chemistry and Biochemistry",
+      "transfers_to": [
+        "CHEM 201: General Chemistry",
+        "CHEM 202: General Chemistry"
+      ]
+    },
+    {
+      "from_course": "CHEM 126",
+      "course_title": "General Chemistry for Physical Science and Engineering III",
+      "units": 4.0,
+      "department": "Chemistry and Biochemistry",
+      "transfers_to": [
+        "CHEM 202: General Chemistry"
+      ]
+    },
+    {
+      "from_course": "CHEM 127",
+      "course_title": "General Chemistry for Agriculture and Life Science I",
+      "units": 4.0,
+      "department": "Chemistry and Biochemistry",
+      "transfers_to": [
+        "CHEM 201: General Chemistry"
+      ]
+    },
+    {
+      "from_course": "CHEM 128",
+      "course_title": "General Chemistry for Agriculture and Life Science II",
+      "units": 4.0,
+      "department": "Chemistry and Biochemistry",
+      "transfers_to": [
+        "CHEM 201: General Chemistry",
+        "CHEM 202: General Chemistry"
+      ]
+    },
+    {
+      "from_course": "CHEM 129",
+      "course_title": "General Chemistry for Agriculture and Life Science III",
+      "units": 4.0,
+      "department": "Chemistry and Biochemistry",
+      "transfers_to": [
+        "CHEM 202: General Chemistry"
+      ]
+    },
+    {
+      "from_course": "CHEM 202",
+      "course_title": "Orientation to Biotechnology",
+      "units": 2.0,
+      "department": "Chemistry and Biochemistry",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "CHEM 212",
+      "course_title": "Introduction to Organic Chemistry",
+      "units": 5.0,
+      "department": "Chemistry and Biochemistry",
+      "transfers_to": [
+        "CHEM 206: Introductory Chemistry II: Organic Chemistry"
+      ]
+    },
+    {
+      "from_course": "CHEM 216",
+      "course_title": "Organic Chemistry I",
+      "units": 5.0,
+      "department": "Chemistry and Biochemistry",
+      "transfers_to": [
+        "CHEM 281: Organic Chemistry"
+      ]
+    },
+    {
+      "from_course": "CHEM 217",
+      "course_title": "Organic Chemistry II",
+      "units": 4.0,
+      "department": "Chemistry and Biochemistry",
+      "transfers_to": [
+        "CHEM 282: Organic Chemistry"
+      ]
+    },
+    {
+      "from_course": "CHEM 218",
+      "course_title": "Organic Chemistry III",
+      "units": 3.0,
+      "department": "Chemistry and Biochemistry",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "CHEM 220",
+      "course_title": "Organic Chemistry Laboratory for Life Sciences II",
+      "units": 1.0,
+      "department": "Chemistry and Biochemistry",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "CHEM 221",
+      "course_title": "Organic Chemistry Laboratory II",
+      "units": 2.0,
+      "department": "Chemistry and Biochemistry",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "CHEM 223",
+      "course_title": "Organic Chemistry Laboratory for Life Sciences III",
+      "units": 1.0,
+      "department": "Chemistry and Biochemistry",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "CHEM 231",
+      "course_title": "Quantitative Analysis",
+      "units": 5.0,
+      "department": "Chemistry and Biochemistry",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "CHIN 101",
+      "course_title": "Elementary Mandarin Chinese I",
+      "units": 4.0,
+      "department": "World Languages and Cultures",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "CHIN 102",
+      "course_title": "Elementary Mandarin Chinese II",
+      "units": 4.0,
+      "department": "World Languages and Cultures",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "CHIN 103",
+      "course_title": "Elementary Mandarin Chinese III",
+      "units": 4.0,
+      "department": "World Languages and Cultures",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "CHIN 201",
+      "course_title": "Intermediate Mandarin Chinese I",
+      "units": 4.0,
+      "department": "World Languages and Cultures",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "CHIN 202",
+      "course_title": "Intermediate Mandarin Chinese II",
+      "units": 4.0,
+      "department": "World Languages and Cultures",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "CHIN 203",
+      "course_title": "Intermediate Mandarin Chinese III",
+      "units": 4.0,
+      "department": "World Languages and Cultures",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "CM 102",
+      "course_title": "Introduction to Construction Management",
+      "units": 2.0,
+      "department": "Construction Management",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "CM 113",
+      "course_title": "Construction Materials and Assemblies",
+      "units": 2.0,
+      "department": "Construction Management",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "CM 114",
+      "course_title": "Construction Materials and Assemblies Lab",
+      "units": 2.0,
+      "department": "Construction Management",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "CM 115",
+      "course_title": "Fundamentals of Construction Management",
+      "units": 6.0,
+      "department": "Construction Management",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "CM 214",
+      "course_title": "Residential Construction Management",
+      "units": 5.0,
+      "department": "Construction Management",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "CM 232",
+      "course_title": "Evaluation of Cost Alternatives",
+      "units": 3.0,
+      "department": "Construction Management",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "CM 239",
+      "course_title": "Construction Surveying",
+      "units": 4.0,
+      "department": "Construction Management",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "CM 280",
+      "course_title": "Building Information Modeling",
+      "units": 2.0,
+      "department": "Construction Management",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "COMS 101",
+      "course_title": "Public Speaking",
+      "units": 4.0,
+      "department": "Communication Studies",
+      "transfers_to": [
+        "CMST 109: Public Speaking"
+      ]
+    },
+    {
+      "from_course": "COMS 102",
+      "course_title": "Principles of Oral Communication",
+      "units": 4.0,
+      "department": "Communication Studies",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "COMS 126",
+      "course_title": "Argument and Advocacy",
+      "units": 4.0,
+      "department": "Communication Studies",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "COMS 145",
+      "course_title": "Reasoning, Argumentation and Writing",
+      "units": 4.0,
+      "department": "Communication Studies",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "COMS 201",
+      "course_title": "Advanced Public Speaking",
+      "units": 4.0,
+      "department": "Communication Studies",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "COMS 205",
+      "course_title": "Rhetorical Studies",
+      "units": 4.0,
+      "department": "Communication Studies",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "COMS 206",
+      "course_title": "Communication Theory",
+      "units": 4.0,
+      "department": "Communication Studies",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "COMS 208",
+      "course_title": "Performance, Literature, and Culture",
+      "units": 4.0,
+      "department": "Communication Studies",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "COMS 211",
+      "course_title": "Interpersonal Communication",
+      "units": 4.0,
+      "department": "Communication Studies",
+      "transfers_to": [
+        "CMST 106: Interpersonal Communication"
+      ]
+    },
+    {
+      "from_course": "COMS 213",
+      "course_title": "Organizational Communication",
+      "units": 4.0,
+      "department": "Communication Studies",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "COMS 215",
+      "course_title": "Media Studies",
+      "units": 4.0,
+      "department": "Communication Studies",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "COMS 217",
+      "course_title": "Small Group Communication",
+      "units": 4.0,
+      "department": "Communication Studies",
+      "transfers_to": [
+        "CMST 108: Group Discussion"
+      ]
+    },
+    {
+      "from_course": "COMS 226",
+      "course_title": "Applied Argumentation",
+      "units": 4.0,
+      "department": "Communication Studies",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "COMS 250",
+      "course_title": "Forensic Activity",
+      "units": 2.0,
+      "department": "Communication Studies",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "CPE 101",
+      "course_title": "Fundamentals of Computer Science",
+      "units": 4.0,
+      "department": "Computer Engineering",
+      "transfers_to": [
+        "CIS 201: Programming Concepts and Methods I",
+        "CIS 206: Programming Java",
+        "CIS 206B: Java Programming B"
+      ]
+    },
+    {
+      "from_course": "CPE 123",
+      "course_title": "Introduction to Computing",
+      "units": 4.0,
+      "department": "Computer Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "CPE 133",
+      "course_title": "Digital Design",
+      "units": 4.0,
+      "department": "Computer Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "CPE 202",
+      "course_title": "Data Structures",
+      "units": 4.0,
+      "department": "Computer Engineering",
+      "transfers_to": [
+        "CIS 202: Programming Concepts and Methods II"
+      ]
+    },
+    {
+      "from_course": "CPE 203",
+      "course_title": "Project-Based Object-Oriented Programming and Design",
+      "units": 4.0,
+      "department": "Computer Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "CPE 225",
+      "course_title": "Introduction to Computer Organization",
+      "units": 4.0,
+      "department": "Computer Engineering",
+      "transfers_to": [
+        "CIS 208: Computer Architecture and Organization"
+      ]
+    },
+    {
+      "from_course": "CPE 233",
+      "course_title": "Computer Design and Assembly Language Programming",
+      "units": 4.0,
+      "department": "Computer Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "CRP 201",
+      "course_title": "Basic Graphic Skills",
+      "units": 4.0,
+      "department": "City and Regional Planning",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "CRP 202",
+      "course_title": "Urban Design Studio I",
+      "units": 4.0,
+      "department": "City and Regional Planning",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "CRP 203",
+      "course_title": "Urban Design Studio II",
+      "units": 4.0,
+      "department": "City and Regional Planning",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "CRP 204",
+      "course_title": "Theories and Methods of Urban Design",
+      "units": 3.0,
+      "department": "City and Regional Planning",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "CRP 211",
+      "course_title": "Cities: Form, Culture and Evolution",
+      "units": 4.0,
+      "department": "City and Regional Planning",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "CRP 212",
+      "course_title": "Introduction to Urban Planning",
+      "units": 4.0,
+      "department": "City and Regional Planning",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "CRP 213",
+      "course_title": "Population, Housing and Economic Applications",
+      "units": 4.0,
+      "department": "City and Regional Planning",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "CRP 214",
+      "course_title": "Land Use and Transportation Studies",
+      "units": 4.0,
+      "department": "City and Regional Planning",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "CRP 215",
+      "course_title": "Planning for and with Multiple Publics",
+      "units": 4.0,
+      "department": "City and Regional Planning",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "CRP 216",
+      "course_title": "Representing the City",
+      "units": 2.0,
+      "department": "City and Regional Planning",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "CSC 101",
+      "course_title": "Fundamentals of Computer Science",
+      "units": 4.0,
+      "department": "Computer Science and Software Engineering",
+      "transfers_to": [
+        "CIS 201: Programming Concepts and Methods I",
+        "CIS 206: Programming Java",
+        "CIS 206B: Java Programming B"
+      ]
+    },
+    {
+      "from_course": "CSC 121",
+      "course_title": "Computing for All I",
+      "units": 4.0,
+      "department": "Computer Science and Software Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "CSC 122",
+      "course_title": "Computing for All II",
+      "units": 4.0,
+      "department": "Computer Science and Software Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "CSC 123",
+      "course_title": "Introduction to Computing",
+      "units": 4.0,
+      "department": "Computer Science and Software Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "CSC 202",
+      "course_title": "Data Structures",
+      "units": 4.0,
+      "department": "Computer Science and Software Engineering",
+      "transfers_to": [
+        "CIS 202: Programming Concepts and Methods II"
+      ]
+    },
+    {
+      "from_course": "CSC 203",
+      "course_title": "Project-Based Object-Oriented Programming and Design",
+      "units": 4.0,
+      "department": "Computer Science and Software Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "CSC 225",
+      "course_title": "Introduction to Computer Organization",
+      "units": 4.0,
+      "department": "Computer Science and Software Engineering",
+      "transfers_to": [
+        "CIS 208: Computer Architecture and Organization"
+      ]
+    },
+    {
+      "from_course": "CSC 231",
+      "course_title": "Programming for Engineering Students",
+      "units": 2.0,
+      "department": "Computer Science and Software Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "CSC 232",
+      "course_title": "Computer Programming for Scientists and Engineers",
+      "units": 3.0,
+      "department": "Computer Science and Software Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "CSC 234",
+      "course_title": "C and UNIX",
+      "units": 3.0,
+      "department": "Computer Science and Software Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "CSC 248",
+      "course_title": "Discrete Structures",
+      "units": 4.0,
+      "department": "Computer Science and Software Engineering",
+      "transfers_to": [
+        "CIS 264: Discrete Structures"
+      ]
+    },
+    {
+      "from_course": "DANC 130",
+      "course_title": "Pilates and Conditioning Fundamentals",
+      "units": 2.0,
+      "department": "Theatre and Dance",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "DANC 131",
+      "course_title": "Beginning Ballet",
+      "units": 2.0,
+      "department": "Theatre and Dance",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "DANC 132",
+      "course_title": "Beginning Modern Dance",
+      "units": 2.0,
+      "department": "Theatre and Dance",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "DANC 133",
+      "course_title": "Beginning Jazz Dance",
+      "units": 2.0,
+      "department": "Theatre and Dance",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "DANC 134",
+      "course_title": "Beginning Ballroom Dance",
+      "units": 2.0,
+      "department": "Theatre and Dance",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "DANC 135",
+      "course_title": "International Folk Dance",
+      "units": 2.0,
+      "department": "Theatre and Dance",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "DANC 210",
+      "course_title": "Active Wellness",
+      "units": 4.0,
+      "department": "Theatre and Dance",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "DANC 221",
+      "course_title": "Dance Appreciation",
+      "units": 4.0,
+      "department": "Theatre and Dance",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "DANC 231",
+      "course_title": "Intermediate Ballet",
+      "units": 2.0,
+      "department": "Theatre and Dance",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "DANC 232",
+      "course_title": "Intermediate Modern Dance",
+      "units": 2.0,
+      "department": "Theatre and Dance",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "DANC 233",
+      "course_title": "Intermediate Jazz Dance",
+      "units": 2.0,
+      "department": "Theatre and Dance",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "DANC 234",
+      "course_title": "Intermediate Ballroom Dance",
+      "units": 2.0,
+      "department": "Theatre and Dance",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "DANC 280",
+      "course_title": "Body Awareness and Expression",
+      "units": 4.0,
+      "department": "Theatre and Dance",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "DSCI 102",
+      "course_title": "Dairy Operations and Safety",
+      "units": 2.0,
+      "department": "Animal Science",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "DSCI 202",
+      "course_title": "Dairy Promotion and Marketing",
+      "units": 4.0,
+      "department": "Animal Science",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "DSCI 229",
+      "course_title": "General Dairy Manufacturing",
+      "units": 4.0,
+      "department": "Animal Science",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "DSCI 230",
+      "course_title": "General Dairy Husbandry",
+      "units": 4.0,
+      "department": "Animal Science",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "DSCI 233",
+      "course_title": "Milk Processing and Inspection",
+      "units": 4.0,
+      "department": "Animal Science",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "DSCI 241",
+      "course_title": "Dairy Cattle Selection, Breeds, Fitting and Showing",
+      "units": 4.0,
+      "department": "Animal Science",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ECON 201",
+      "course_title": "Survey of Economics",
+      "units": 4.0,
+      "department": "Business",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ECON 202",
+      "course_title": "Using Big Data to Solve Economic and Social Problems",
+      "units": 4.0,
+      "department": "Business",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ECON 221",
+      "course_title": "Microeconomics",
+      "units": 4.0,
+      "department": "Business",
+      "transfers_to": [
+        "ECON 102: Principles of Economics: Micro"
+      ]
+    },
+    {
+      "from_course": "ECON 222",
+      "course_title": "Macroeconomics",
+      "units": 4.0,
+      "department": "Business",
+      "transfers_to": [
+        "ECON 101: Principles of Economics: Macro"
+      ]
+    },
+    {
+      "from_course": "EDES 101",
+      "course_title": "Introduction to Architecture and Environmental Design",
+      "units": 2.0,
+      "department": "Environmental Design",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "EDES 123",
+      "course_title": "Principles of Environmental Design",
+      "units": 4.0,
+      "department": "Environmental Design",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "EDUC 125",
+      "course_title": "First Year Seminar",
+      "units": 2.0,
+      "department": "School of Education",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "EDUC 207",
+      "course_title": "Children's Learning and Development in Educational Settings",
+      "units": 4.0,
+      "department": "School of Education",
+      "transfers_to": [
+        "CHDV 110: Principles and Practices"
+      ]
+    },
+    {
+      "from_course": "EE 111",
+      "course_title": "Introduction to Electrical Engineering",
+      "units": 1.0,
+      "department": "Electrical Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "EE 112",
+      "course_title": "Electric Circuit Analysis I",
+      "units": 2.0,
+      "department": "Electrical Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "EE 113",
+      "course_title": "Electric Circuit Analysis I",
+      "units": 3.0,
+      "department": "Electrical Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "EE 115",
+      "course_title": "Electrical and Electronic Circuits I",
+      "units": 3.0,
+      "department": "Electrical Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "EE 133",
+      "course_title": "Digital Design",
+      "units": 4.0,
+      "department": "Electrical Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "EE 143",
+      "course_title": "Electronics Manufacturing and Circuit Analysis Laboratory",
+      "units": 1.0,
+      "department": "Electrical Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "EE 145",
+      "course_title": "Electrical and Electronic Circuits I Laboratory",
+      "units": 1.0,
+      "department": "Electrical Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "EE 151",
+      "course_title": "Introduction to Electrical Engineering Laboratory",
+      "units": 1.0,
+      "department": "Electrical Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "EE 201",
+      "course_title": "Electric Circuit Theory",
+      "units": 3.0,
+      "department": "Electrical Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "EE 211",
+      "course_title": "Electric Circuit Analysis II",
+      "units": 3.0,
+      "department": "Electrical Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "EE 212",
+      "course_title": "Electric Circuit Analysis III",
+      "units": 3.0,
+      "department": "Electrical Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "EE 215",
+      "course_title": "Electrical and Electronic Circuits II",
+      "units": 3.0,
+      "department": "Electrical Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "EE 228",
+      "course_title": "Continuous-Time Signals and Systems",
+      "units": 4.0,
+      "department": "Electrical Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "EE 233",
+      "course_title": "Computer Design and Assembly Language Programming",
+      "units": 4.0,
+      "department": "Electrical Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "EE 241",
+      "course_title": "Electric Circuit Analysis Laboratory II",
+      "units": 1.0,
+      "department": "Electrical Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "EE 242",
+      "course_title": "Electric Circuit Analysis Laboratory III",
+      "units": 1.0,
+      "department": "Electrical Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "EE 245",
+      "course_title": "Electrical and Electronic Circuits II Laboratory",
+      "units": 1.0,
+      "department": "Electrical Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "EE 251",
+      "course_title": "Electric Circuits Laboratory",
+      "units": 1.0,
+      "department": "Electrical Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "EE 255",
+      "course_title": "Energy Conversion Electromagnetics",
+      "units": 3.0,
+      "department": "Electrical Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "EE 261",
+      "course_title": "Intro C Programming with a Hardware Emphasis",
+      "units": 1.0,
+      "department": "Electrical Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "EE 262",
+      "course_title": "Intro C++ Programming with a Hardware Emphasis",
+      "units": 1.0,
+      "department": "Electrical Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "EE 295",
+      "course_title": "Energy Conversion Electromagnetics Laboratory",
+      "units": 1.0,
+      "department": "Electrical Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ENGL 133",
+      "course_title": "Multilingual Writing and Rhetoric",
+      "units": 4.0,
+      "department": "English",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ENGL 134",
+      "course_title": "Writing and Rhetoric",
+      "units": 4.0,
+      "department": "English",
+      "transfers_to": [
+        "ENGL 101: English Composition and Reading"
+      ]
+    },
+    {
+      "from_course": "ENGL 145",
+      "course_title": "Writing Arguments",
+      "units": 4.0,
+      "department": "English",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ENGL 147",
+      "course_title": "Writing Arguments about STEM",
+      "units": 4.0,
+      "department": "English",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ENGL 202",
+      "course_title": "Introduction to Literary Studies",
+      "units": 4.0,
+      "department": "English",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ENGL 203",
+      "course_title": "Sequence I: Fifth Century to Fifteenth Century",
+      "units": 4.0,
+      "department": "English",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ENGL 204",
+      "course_title": "Sequence II: Sixteenth Century to Late Seventeenth Century",
+      "units": 4.0,
+      "department": "English",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ENGL 205",
+      "course_title": "Sequence III: Mid-Seventeenth to Late Eighteenth Century",
+      "units": 4.0,
+      "department": "English",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ENGL 220",
+      "course_title": "Introduction to Writing Studies",
+      "units": 4.0,
+      "department": "English",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ENGL 221",
+      "course_title": "Introduction to Technical and Professional Communication",
+      "units": 4.0,
+      "department": "English",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ENGL 230",
+      "course_title": "British Literature: Beginnings to 1789",
+      "units": 4.0,
+      "department": "English",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ENGL 231",
+      "course_title": "British Literature: 1789 to the Present",
+      "units": 4.0,
+      "department": "English",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ENGL 241",
+      "course_title": "American Literature: Beginnings to 1865",
+      "units": 4.0,
+      "department": "English",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ENGL 242",
+      "course_title": "American Literature: 1830 to the Present",
+      "units": 4.0,
+      "department": "English",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ENGL 251",
+      "course_title": "Introduction to Classical Literature",
+      "units": 4.0,
+      "department": "English",
+      "transfers_to": [
+        "ENGL 240: World Literature"
+      ]
+    },
+    {
+      "from_course": "ENGL 252",
+      "course_title": "Introduction to Medieval through Enlightenment Literature",
+      "units": 4.0,
+      "department": "English",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ENGL 253",
+      "course_title": "Introduction to Romanticist through Modernist Literature",
+      "units": 4.0,
+      "department": "English",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ENGL 255",
+      "course_title": "Children's Literature in a Diverse Society",
+      "units": 4.0,
+      "department": "English",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ENGL 272",
+      "course_title": "Introductory Topics in Cinematic Expression",
+      "units": 4.0,
+      "department": "English",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ENGL 290",
+      "course_title": "Introduction to Linguistics",
+      "units": 4.0,
+      "department": "English",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ENGR 110",
+      "course_title": "Introduction to Engineering",
+      "units": 2.0,
+      "department": "General Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ENGR 234",
+      "course_title": "Introduction to Design Thinking",
+      "units": 4.0,
+      "department": "General Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ENVE 111",
+      "course_title": "Introduction to the Environmental Engineering Profession",
+      "units": 1.0,
+      "department": "Civil and Environmental Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ENVE 264",
+      "course_title": "Environmental Fluid Mechanics",
+      "units": 4.0,
+      "department": "Civil and Environmental Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ERSC 144",
+      "course_title": "Introduction to Earth Science",
+      "units": 4.0,
+      "department": "Natural Resources Management and Environmental Sciences",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ERSC 223",
+      "course_title": "Rocks and Minerals",
+      "units": 4.0,
+      "department": "Natural Resources Management and Environmental Sciences",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ERSC 250",
+      "course_title": "Physical Geography",
+      "units": 4.0,
+      "department": "Natural Resources Management and Environmental Sciences",
+      "transfers_to": [
+        "GEOG 101: Physical Geography"
+      ]
+    },
+    {
+      "from_course": "ES 112",
+      "course_title": "Race, Culture and Politics in the United States",
+      "units": 4.0,
+      "department": "Ethnic Studies",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ES 114",
+      "course_title": "Introduction to Ethnic Studies",
+      "units": 4.0,
+      "department": "Ethnic Studies",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ES 134",
+      "course_title": "Writing & Rhetoric",
+      "units": 4.0,
+      "department": "Ethnic Studies",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ES 145",
+      "course_title": "Reasoning, Argumentation, & Writing",
+      "units": 4.0,
+      "department": "Ethnic Studies",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ES 215",
+      "course_title": "Planning for and with Multiple Publics",
+      "units": 4.0,
+      "department": "Ethnic Studies",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ES 252",
+      "course_title": "Global Origins of Race in the U.S.",
+      "units": 4.0,
+      "department": "Ethnic Studies",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ES 253",
+      "course_title": "Introduction to American Indian Studies",
+      "units": 4.0,
+      "department": "Ethnic Studies",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ES 254",
+      "course_title": "Introduction to African American Studies",
+      "units": 4.0,
+      "department": "Ethnic Studies",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ES 255",
+      "course_title": "Introduction to Latino/a/x Studies",
+      "units": 4.0,
+      "department": "Ethnic Studies",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ES 256",
+      "course_title": "Introduction to Asian American Studies",
+      "units": 4.0,
+      "department": "Ethnic Studies",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "FR 101",
+      "course_title": "Elementary French I",
+      "units": 4.0,
+      "department": "World Languages and Cultures",
+      "transfers_to": [
+        "FREN 101: Elementary French"
+      ]
+    },
+    {
+      "from_course": "FR 102",
+      "course_title": "Elementary French II",
+      "units": 4.0,
+      "department": "World Languages and Cultures",
+      "transfers_to": [
+        "FREN 101: Elementary French",
+        "FREN 102: Elementary French"
+      ]
+    },
+    {
+      "from_course": "FR 103",
+      "course_title": "Elementary French III",
+      "units": 4.0,
+      "department": "World Languages and Cultures",
+      "transfers_to": [
+        "FREN 102: Elementary French"
+      ]
+    },
+    {
+      "from_course": "FR 201",
+      "course_title": "Intermediate French I",
+      "units": 4.0,
+      "department": "World Languages and Cultures",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "FR 202",
+      "course_title": "Intermediate French II",
+      "units": 4.0,
+      "department": "World Languages and Cultures",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "FR 203",
+      "course_title": "Intermediate French III",
+      "units": 4.0,
+      "department": "World Languages and Cultures",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "FR 233",
+      "course_title": "Critical Readings in French Literature",
+      "units": 4.0,
+      "department": "World Languages and Cultures",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "FSN 101",
+      "course_title": "Orientation to the Nutrition Major",
+      "units": 1.0,
+      "department": "Food Science and Nutrition",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "FSN 102",
+      "course_title": "Orientation to the Food Science Major",
+      "units": 1.0,
+      "department": "Food Science and Nutrition",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "FSN 121",
+      "course_title": "Fundamentals of Food",
+      "units": 4.0,
+      "department": "Food Science and Nutrition",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "FSN 125",
+      "course_title": "Introduction to Food Science",
+      "units": 4.0,
+      "department": "Food Science and Nutrition",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "FSN 202",
+      "course_title": "Introduction to Human Nutrition",
+      "units": 4.0,
+      "department": "Food Science and Nutrition",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "FSN 204",
+      "course_title": "Food Processing Operations",
+      "units": 4.0,
+      "department": "Food Science and Nutrition",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "FSN 230",
+      "course_title": "Elements of Food Processing",
+      "units": 4.0,
+      "department": "Food Science and Nutrition",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "FSN 244",
+      "course_title": "Cereal and Bakery Science",
+      "units": 4.0,
+      "department": "Food Science and Nutrition",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "FSN 250",
+      "course_title": "Food and Nutrition: Customs and Culture",
+      "units": 4.0,
+      "department": "Food Science and Nutrition",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "FSN 275",
+      "course_title": "Elements of Food Safety",
+      "units": 4.0,
+      "department": "Food Science and Nutrition",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "FSN 281",
+      "course_title": "Writing in Nutrition Science",
+      "units": 2.0,
+      "department": "Food Science and Nutrition",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "GEOG 150",
+      "course_title": "Human Geography",
+      "units": 4.0,
+      "department": "Social Sciences",
+      "transfers_to": [
+        "GEOG 102: Cultural Geography"
+      ]
+    },
+    {
+      "from_course": "GEOG 218",
+      "course_title": "Applications in GIS",
+      "units": 4.0,
+      "department": "Social Sciences",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "GEOG 250",
+      "course_title": "Physical Geography",
+      "units": 4.0,
+      "department": "Social Sciences",
+      "transfers_to": [
+        "GEOG 101: Physical Geography"
+      ]
+    },
+    {
+      "from_course": "GEOL 102",
+      "course_title": "Introduction to Geology",
+      "units": 4.0,
+      "department": "Physics",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "GEOL 201",
+      "course_title": "Physical Geology",
+      "units": 3.0,
+      "department": "Physics",
+      "transfers_to": [
+        "GEOL 101: Physical Geology"
+      ]
+    },
+    {
+      "from_course": "GEOL 203",
+      "course_title": "The Geologic Record: Fossils and the History of Life",
+      "units": 4.0,
+      "department": "Physics",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "GEOL 206",
+      "course_title": "Geologic Excursions",
+      "units": 1.0,
+      "department": "Physics",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "GEOL 241",
+      "course_title": "Physical Geology Laboratory",
+      "units": 1.0,
+      "department": "Physics",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "GER 101",
+      "course_title": "Elementary German Language and Culture I",
+      "units": 4.0,
+      "department": "World Languages and Cultures",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "GER 102",
+      "course_title": "Elementary German Language and Culture II",
+      "units": 4.0,
+      "department": "World Languages and Cultures",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "GER 103",
+      "course_title": "Elementary German Language and Culture III",
+      "units": 4.0,
+      "department": "World Languages and Cultures",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "GER 201",
+      "course_title": "Intermediate German I",
+      "units": 4.0,
+      "department": "World Languages and Cultures",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "GER 202",
+      "course_title": "Intermediate German II",
+      "units": 4.0,
+      "department": "World Languages and Cultures",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "GER 203",
+      "course_title": "Intermediate German III",
+      "units": 4.0,
+      "department": "World Languages and Cultures",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "GER 233",
+      "course_title": "Critical Readings in German Literature",
+      "units": 4.0,
+      "department": "World Languages and Cultures",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "GRC 101",
+      "course_title": "Introduction to Graphic Communication",
+      "units": 3.0,
+      "department": "Graphic Communication",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "GRC 102",
+      "course_title": "Orientation to Graphic Communication",
+      "units": 2.0,
+      "department": "Graphic Communication",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "GRC 201",
+      "course_title": "Digital Publishing Systems",
+      "units": 3.0,
+      "department": "Graphic Communication",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "GRC 203",
+      "course_title": "Digital File Preparation and Workflow",
+      "units": 4.0,
+      "department": "Graphic Communication",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "GRC 204",
+      "course_title": "Introduction to Contemporary Print Management and Manufacturing",
+      "units": 4.0,
+      "department": "Graphic Communication",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "GRC 211",
+      "course_title": "Materials for Graphic Applications",
+      "units": 4.0,
+      "department": "Graphic Communication",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "GRC 212",
+      "course_title": "Materials for Graphic Applications: Theory",
+      "units": 3.0,
+      "department": "Graphic Communication",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "GRC 220",
+      "course_title": "Introduction to Applied Social Media in Graphic Communication",
+      "units": 2.0,
+      "department": "Graphic Communication",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "GRC 224",
+      "course_title": "Binding and Finishing Processes",
+      "units": 1.0,
+      "department": "Graphic Communication",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "HIST 100",
+      "course_title": "Introduction to the Study of History",
+      "units": 2.0,
+      "department": "History",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "HIST 110",
+      "course_title": "Western Civilization: Ancient to Renaissance",
+      "units": 4.0,
+      "department": "History",
+      "transfers_to": [
+        "HIST 103: World History to 1500"
+      ]
+    },
+    {
+      "from_course": "HIST 111",
+      "course_title": "Western Civilization: Reformation to the Present",
+      "units": 4.0,
+      "department": "History",
+      "transfers_to": [
+        "HIST 104: World History Since 1500"
+      ]
+    },
+    {
+      "from_course": "HIST 201",
+      "course_title": "United States History to 1865",
+      "units": 4.0,
+      "department": "History",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "HIST 202",
+      "course_title": "United States History Since 1865",
+      "units": 4.0,
+      "department": "History",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "HIST 206",
+      "course_title": "American Cultures",
+      "units": 4.0,
+      "department": "History",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "HIST 208",
+      "course_title": "Survey of California History",
+      "units": 4.0,
+      "department": "History",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "HIST 210",
+      "course_title": "World History I",
+      "units": 4.0,
+      "department": "History",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "HIST 213",
+      "course_title": "Modern Political Economy",
+      "units": 4.0,
+      "department": "History",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "HIST 216",
+      "course_title": "Comparative Social Movements",
+      "units": 4.0,
+      "department": "History",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "HIST 221",
+      "course_title": "World History, Beginnings to 1000",
+      "units": 4.0,
+      "department": "History",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "HIST 222",
+      "course_title": "World History, 1000 - 1800",
+      "units": 4.0,
+      "department": "History",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "HIST 223",
+      "course_title": "World History, 1800 to Present",
+      "units": 4.0,
+      "department": "History",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "HIST 225",
+      "course_title": "The World at War",
+      "units": 4.0,
+      "department": "History",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "HLTH 101",
+      "course_title": "Orientation to Public Health",
+      "units": 1.0,
+      "department": "Kinesiology and Public Health",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "HLTH 250",
+      "course_title": "Healthy Living",
+      "units": 4.0,
+      "department": "Kinesiology and Public Health",
+      "transfers_to": [
+        "HLTH 102: Contemporary Problems in Personal and Community Health"
+      ]
+    },
+    {
+      "from_course": "HLTH 255",
+      "course_title": "Personal Health: A Multicultural Approach",
+      "units": 4.0,
+      "department": "Kinesiology and Public Health",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "HLTH 260",
+      "course_title": "Women's Health Issues",
+      "units": 4.0,
+      "department": "Kinesiology and Public Health",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "HLTH 265",
+      "course_title": "Introduction to Community and Public Health",
+      "units": 3.0,
+      "department": "Kinesiology and Public Health",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "HLTH 297",
+      "course_title": "Medical Terminology",
+      "units": 3.0,
+      "department": "Kinesiology and Public Health",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "HLTH 298",
+      "course_title": "Introduction to Epidemiology",
+      "units": 4.0,
+      "department": "Kinesiology and Public Health",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "HNRS 101",
+      "course_title": "Public Speaking",
+      "units": 4.0,
+      "department": "Honors",
+      "transfers_to": [
+        "CMST 109: Public Speaking"
+      ]
+    },
+    {
+      "from_course": "HNRS 102",
+      "course_title": "Principles of Oral Communication",
+      "units": 4.0,
+      "department": "Honors",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "HNRS 112",
+      "course_title": "Race, Culture and Politics in the United States",
+      "units": 4.0,
+      "department": "Honors",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "HNRS 132",
+      "course_title": "General Physics II",
+      "units": 4.0,
+      "department": "Honors",
+      "transfers_to": [
+        "PHYS 204H: Honors Engineering Physics",
+        "PHYS 202: Engineering Physics (Mechanics of Fluids, Heat and Sound)"
+      ]
+    },
+    {
+      "from_course": "HNRS 134",
+      "course_title": "General Physics I",
+      "units": 4.0,
+      "department": "Honors",
+      "transfers_to": [
+        "PHYS 201: Engineering Physics (Mechanics of Solids)"
+      ]
+    },
+    {
+      "from_course": "HNRS 141",
+      "course_title": "Calculus I",
+      "units": 4.0,
+      "department": "Honors",
+      "transfers_to": [
+        "MATH 226: Analytic Geometry and Calculus I"
+      ]
+    },
+    {
+      "from_course": "HNRS 142",
+      "course_title": "Calculus II",
+      "units": 4.0,
+      "department": "Honors",
+      "transfers_to": [
+        "MATH 227H: Honors Analytic Geometry and Calculus II",
+        "MATH 227: Analytic Geometry and Calculus II"
+      ]
+    },
+    {
+      "from_course": "HNRS 143",
+      "course_title": "Calculus III",
+      "units": 4.0,
+      "department": "Honors",
+      "transfers_to": [
+        "MATH 227: Analytic Geometry and Calculus II",
+        "MATH 227H: Honors Analytic Geometry and Calculus II"
+      ]
+    },
+    {
+      "from_course": "HNRS 145",
+      "course_title": "Writing Arguments",
+      "units": 4.0,
+      "department": "Honors",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "HNRS 147",
+      "course_title": "Writing Arguments about STEM",
+      "units": 4.0,
+      "department": "Honors",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "HNRS 201",
+      "course_title": "Survey of Economics",
+      "units": 4.0,
+      "department": "Honors",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "HNRS 202",
+      "course_title": "United States History Since 1865",
+      "units": 4.0,
+      "department": "Honors",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "HNRS 203",
+      "course_title": "United States History to 1865",
+      "units": 4.0,
+      "department": "Honors",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "HNRS 204",
+      "course_title": "Gender and Sexuality in US Society and Politics",
+      "units": 4.0,
+      "department": "Honors",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "HNRS 210",
+      "course_title": "Gender and Sexuality in Visual and Popular Culture",
+      "units": 4.0,
+      "department": "Honors",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "HNRS 211",
+      "course_title": "Engineering Statics",
+      "units": 3.0,
+      "department": "Honors",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "HNRS 213",
+      "course_title": "Modern Political Economy",
+      "units": 4.0,
+      "department": "Honors",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "HNRS 214",
+      "course_title": "Engineering Dynamics",
+      "units": 3.0,
+      "department": "Honors",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "HNRS 216",
+      "course_title": "Comparative Social Movements",
+      "units": 4.0,
+      "department": "Honors",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "HNRS 223",
+      "course_title": "World History, 1800 to Present",
+      "units": 4.0,
+      "department": "Honors",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "HNRS 230",
+      "course_title": "Philosophical Classics: Knowledge and Reality",
+      "units": 4.0,
+      "department": "Honors",
+      "transfers_to": [
+        "PHIL 121: History of Modern and Contemporary Philosophy",
+        "PHIL 118: Philosophy of Science"
+      ]
+    },
+    {
+      "from_course": "HNRS 231",
+      "course_title": "Philosophical Classics: Ethics and Political Philosophy",
+      "units": 4.0,
+      "department": "Honors",
+      "transfers_to": [
+        "PHIL 114: Introduction to Political Theory Thought"
+      ]
+    },
+    {
+      "from_course": "HNRS 232",
+      "course_title": "British Literature: 1789 to the Present",
+      "units": 4.0,
+      "department": "Honors",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "HNRS 241",
+      "course_title": "Calculus IV",
+      "units": 4.0,
+      "department": "Honors",
+      "transfers_to": [
+        "MATH 228: Analytic Geometry and Calculus III",
+        "MATH 228H: Honors Analytic Geometry & Calculus III"
+      ]
+    },
+    {
+      "from_course": "HNRS 242",
+      "course_title": "American Literature: 1830 to the Present",
+      "units": 4.0,
+      "department": "Honors",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "HNRS 244",
+      "course_title": "Linear Analysis I",
+      "units": 4.0,
+      "department": "Honors",
+      "transfers_to": [
+        "MATH 270: Differential Equations",
+        "MATH 231: Linear Algebra"
+      ]
+    },
+    {
+      "from_course": "HNRS 251",
+      "course_title": "Introduction to Classical Literature",
+      "units": 4.0,
+      "department": "Honors",
+      "transfers_to": [
+        "ENGL 240: World Literature"
+      ]
+    },
+    {
+      "from_course": "HNRS 252",
+      "course_title": "Global Origins of Race in the U.S.",
+      "units": 4.0,
+      "department": "Honors",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "IME 101",
+      "course_title": "Introduction to Industrial and Manufacturing Engineering",
+      "units": 1.0,
+      "department": "Industrial and Manufacturing Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "IME 141",
+      "course_title": "Manufacturing Processes: Net Shape",
+      "units": 1.0,
+      "department": "Industrial and Manufacturing Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "IME 142",
+      "course_title": "Manufacturing Processes: Materials Joining",
+      "units": 2.0,
+      "department": "Industrial and Manufacturing Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "IME 143",
+      "course_title": "Manufacturing Processes: Material Removal",
+      "units": 2.0,
+      "department": "Industrial and Manufacturing Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "IME 144",
+      "course_title": "Introduction to Design and Manufacturing",
+      "units": 4.0,
+      "department": "Industrial and Manufacturing Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "IME 145",
+      "course_title": "Subtractive Manufacturing Processes for Mechanical Designs I",
+      "units": 1.0,
+      "department": "Industrial and Manufacturing Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "IME 146",
+      "course_title": "Subtractive Manufacturing Processes for Mechanical Designs II",
+      "units": 1.0,
+      "department": "Industrial and Manufacturing Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "IME 156",
+      "course_title": "Basic Electronics Manufacturing",
+      "units": 2.0,
+      "department": "Industrial and Manufacturing Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "IME 212",
+      "course_title": "Introduction to Enterprise Analytics",
+      "units": 4.0,
+      "department": "Industrial and Manufacturing Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "IME 223",
+      "course_title": "Process Improvement Fundamentals",
+      "units": 4.0,
+      "department": "Industrial and Manufacturing Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "IME 239",
+      "course_title": "Industrial Costs and Controls",
+      "units": 3.0,
+      "department": "Industrial and Manufacturing Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "IME 244",
+      "course_title": "Intermediate Design and Manufacturing",
+      "units": 2.0,
+      "department": "Industrial and Manufacturing Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ISLA 123",
+      "course_title": "Introduction to Science, Technology and Society",
+      "units": 4.0,
+      "department": "Interdisciplinary Studies in Liberal Arts",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ISLA 201",
+      "course_title": "Introduction to Interdisciplinary Studies",
+      "units": 4.0,
+      "department": "Interdisciplinary Studies in Liberal Arts",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ISLA 240",
+      "course_title": "Introduction to Media Arts and Technologies",
+      "units": 4.0,
+      "department": "Interdisciplinary Studies in Liberal Arts",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ISLA 255",
+      "course_title": "Introduction to Interdisciplinary Theory and Methods",
+      "units": 4.0,
+      "department": "Interdisciplinary Studies in Liberal Arts",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ITAL 101",
+      "course_title": "Elementary Italian I",
+      "units": 4.0,
+      "department": "World Languages and Cultures",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ITAL 102",
+      "course_title": "Elementary Italian II",
+      "units": 4.0,
+      "department": "World Languages and Cultures",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ITAL 103",
+      "course_title": "Elementary Italian III",
+      "units": 4.0,
+      "department": "World Languages and Cultures",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ITAL 201",
+      "course_title": "Intermediate Italian I",
+      "units": 4.0,
+      "department": "World Languages and Cultures",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ITAL 202",
+      "course_title": "Intermediate Italian II",
+      "units": 4.0,
+      "department": "World Languages and Cultures",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ITP 125",
+      "course_title": "Introduction to Supply Chain and Packaging Systems",
+      "units": 3.0,
+      "department": "Business",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ITP 150",
+      "course_title": "Industrial Power Systems",
+      "units": 4.0,
+      "department": "Business",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ITP 203",
+      "course_title": "Personal Leadership - 7 Habits",
+      "units": 4.0,
+      "department": "Business",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ITP 211",
+      "course_title": "Industrial Safety and Quality Program Leadership",
+      "units": 4.0,
+      "department": "Business",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ITP 233",
+      "course_title": "Product Modeling and Communication",
+      "units": 4.0,
+      "department": "Business",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ITP 234",
+      "course_title": "Packaging Design Fundamentals",
+      "units": 4.0,
+      "department": "Business",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ITP 260",
+      "course_title": "Manufacturing Processes and Materials",
+      "units": 4.0,
+      "department": "Business",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ITP 275",
+      "course_title": "Industrial Facility Systems and Equipment",
+      "units": 4.0,
+      "department": "Business",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "JOUR 102",
+      "course_title": "Introduction to Journalism",
+      "units": 1.0,
+      "department": "Journalism",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "JOUR 201",
+      "course_title": "News Media and Democracy",
+      "units": 4.0,
+      "department": "Journalism",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "JOUR 203",
+      "course_title": "News Reporting and Writing",
+      "units": 4.0,
+      "department": "Journalism",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "JOUR 219",
+      "course_title": "Multicultural Society and the Mass Media",
+      "units": 4.0,
+      "department": "Journalism",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "JOUR 220",
+      "course_title": "Introduction to Radio Broadcasting",
+      "units": 2.0,
+      "department": "Journalism",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "JOUR 228",
+      "course_title": "Media, Self and Society",
+      "units": 4.0,
+      "department": "Journalism",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "JOUR 285",
+      "course_title": "Introduction to Multimedia Journalism",
+      "units": 4.0,
+      "department": "Journalism",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "JPNS 101",
+      "course_title": "Elementary Japanese I",
+      "units": 4.0,
+      "department": "World Languages and Cultures",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "JPNS 102",
+      "course_title": "Elementary Japanese II",
+      "units": 4.0,
+      "department": "World Languages and Cultures",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "JPNS 103",
+      "course_title": "Elementary Japanese III",
+      "units": 4.0,
+      "department": "World Languages and Cultures",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "JPNS 201",
+      "course_title": "Intermediate Japanese I",
+      "units": 4.0,
+      "department": "World Languages and Cultures",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "JPNS 202",
+      "course_title": "Intermediate Japanese II",
+      "units": 4.0,
+      "department": "World Languages and Cultures",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "KINE 180",
+      "course_title": "Orientation to Kinesiology",
+      "units": 2.0,
+      "department": "Kinesiology and Public Health",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "KINE 181",
+      "course_title": "Responding to Emergencies: Comprehensive First Aid, CPR, AED",
+      "units": 2.0,
+      "department": "Kinesiology and Public Health",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "KINE 240",
+      "course_title": "Introductory Principles of Exercise Science and Sport",
+      "units": 4.0,
+      "department": "Kinesiology and Public Health",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "KINE 266",
+      "course_title": "Sport and Exercise Psychology",
+      "units": 4.0,
+      "department": "Kinesiology and Public Health",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "KINE 278",
+      "course_title": "Introduction to Perspectives in Physical Activity",
+      "units": 4.0,
+      "department": "Kinesiology and Public Health",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "LA 101",
+      "course_title": "Introduction to Landscape Architecture",
+      "units": 4.0,
+      "department": "Landscape Architecture",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "LA 170",
+      "course_title": "Principles of Design Communication",
+      "units": 4.0,
+      "department": "Landscape Architecture",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "LA 171",
+      "course_title": "Principles of Digital Communication",
+      "units": 4.0,
+      "department": "Landscape Architecture",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "LA 202",
+      "course_title": "Design Fundamentals I",
+      "units": 4.0,
+      "department": "Landscape Architecture",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "LA 203",
+      "course_title": "Design Fundamentals II",
+      "units": 4.0,
+      "department": "Landscape Architecture",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "LA 204",
+      "course_title": "Design Fundamentals III",
+      "units": 4.0,
+      "department": "Landscape Architecture",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "LA 211",
+      "course_title": "History of Landscape Architecture: Ancient Civilizations through Colonial America",
+      "units": 4.0,
+      "department": "Landscape Architecture",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "LA 212",
+      "course_title": "History of Modern and Contemporary Landscape Architecture",
+      "units": 4.0,
+      "department": "Landscape Architecture",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "LA 218",
+      "course_title": "Introduction to Geographic Information Systems (GIS)",
+      "units": 3.0,
+      "department": "Landscape Architecture",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "LA 220",
+      "course_title": "Landscape Ecology: Concepts, Issues and Interrelationships",
+      "units": 4.0,
+      "department": "Landscape Architecture",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "LA 221",
+      "course_title": "California Plants and Plant Communities",
+      "units": 4.0,
+      "department": "Landscape Architecture",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "LA 241",
+      "course_title": "Site Engineering Techniques and Applications",
+      "units": 4.0,
+      "department": "Landscape Architecture",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "LA 242",
+      "course_title": "Implementation Strategies",
+      "units": 4.0,
+      "department": "Landscape Architecture",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "LA 243",
+      "course_title": "Materials and Techniques of Landscape Construction",
+      "units": 4.0,
+      "department": "Landscape Architecture",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "LS 201",
+      "course_title": "Orientation to Liberal Studies",
+      "units": 1.0,
+      "department": "Liberal Studies",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "LS 211",
+      "course_title": "Visual Arts in the Elementary Classroom",
+      "units": 4.0,
+      "department": "Liberal Studies",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "LS 214",
+      "course_title": "Constitutional Issues in the History of US and California Education",
+      "units": 4.0,
+      "department": "Liberal Studies",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "LS 230",
+      "course_title": "Field Experience in the Elementary Classroom I",
+      "units": 2.0,
+      "department": "Liberal Studies",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "LS 250",
+      "course_title": "Field Experience in the Elementary Classroom II",
+      "units": 2.0,
+      "department": "Liberal Studies",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "LS 255",
+      "course_title": "Children's Literature in a Diverse Society",
+      "units": 4.0,
+      "department": "Liberal Studies",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "MATE 110",
+      "course_title": "Introduction to Materials Engineering Design I",
+      "units": 1.0,
+      "department": "Materials Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "MATE 120",
+      "course_title": "Introduction to Materials Engineering Design II",
+      "units": 1.0,
+      "department": "Materials Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "MATE 130",
+      "course_title": "Introduction to Materials Engineering Design III",
+      "units": 1.0,
+      "department": "Materials Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "MATE 210",
+      "course_title": "Materials Engineering",
+      "units": 3.0,
+      "department": "Materials Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "MATE 215",
+      "course_title": "Materials Laboratory I",
+      "units": 1.0,
+      "department": "Materials Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "MATE 222",
+      "course_title": "Materials Selection Life Cycle",
+      "units": 4.0,
+      "department": "Materials Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "MATE 225",
+      "course_title": "Materials Laboratory II",
+      "units": 1.0,
+      "department": "Materials Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "MATE 232",
+      "course_title": "Materials, Ethics, and Society",
+      "units": 4.0,
+      "department": "Materials Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "MATE 235",
+      "course_title": "Materials Laboratory III",
+      "units": 1.0,
+      "department": "Materials Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "MATE 245",
+      "course_title": "Materials Engineering Analysis",
+      "units": 1.0,
+      "department": "Materials Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "MATE 280",
+      "course_title": "Introduction to Materials Thermodynamics",
+      "units": 4.0,
+      "department": "Materials Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "MATH 112",
+      "course_title": "Nature of Modern Math",
+      "units": 4.0,
+      "department": "Mathematics",
+      "transfers_to": [
+        "MATH 132: The Ideas of Mathematics"
+      ]
+    },
+    {
+      "from_course": "MATH 116",
+      "course_title": "Pre-Calculus Algebra I",
+      "units": 3.0,
+      "department": "Mathematics",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "MATH 117",
+      "course_title": "Pre-Calculus Algebra II",
+      "units": 3.0,
+      "department": "Mathematics",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "MATH 118",
+      "course_title": "Pre-Calculus Algebra",
+      "units": 4.0,
+      "department": "Mathematics",
+      "transfers_to": [
+        "MATH 105: College Algebra",
+        "MATH 105H: Honors College Algebra"
+      ]
+    },
+    {
+      "from_course": "MATH 119",
+      "course_title": "Pre-Calculus Trigonometry",
+      "units": 4.0,
+      "department": "Mathematics",
+      "transfers_to": [
+        "MATH 104: Trigonometry"
+      ]
+    },
+    {
+      "from_course": "MATH 141",
+      "course_title": "Calculus I",
+      "units": 4.0,
+      "department": "Mathematics",
+      "transfers_to": [
+        "MATH 226: Analytic Geometry and Calculus I"
+      ]
+    },
+    {
+      "from_course": "MATH 142",
+      "course_title": "Calculus II",
+      "units": 4.0,
+      "department": "Mathematics",
+      "transfers_to": [
+        "MATH 227H: Honors Analytic Geometry and Calculus II",
+        "MATH 227: Analytic Geometry and Calculus II"
+      ]
+    },
+    {
+      "from_course": "MATH 143",
+      "course_title": "Calculus III",
+      "units": 4.0,
+      "department": "Mathematics",
+      "transfers_to": [
+        "MATH 227: Analytic Geometry and Calculus II",
+        "MATH 227H: Honors Analytic Geometry and Calculus II"
+      ]
+    },
+    {
+      "from_course": "MATH 161",
+      "course_title": "Calculus for the Life Sciences I",
+      "units": 4.0,
+      "department": "Mathematics",
+      "transfers_to": [
+        "MATH 226: Analytic Geometry and Calculus I",
+        "MATH 226H: Honors Analytic Geometry and Calculus I"
+      ]
+    },
+    {
+      "from_course": "MATH 162",
+      "course_title": "Calculus for the Life Sciences II",
+      "units": 4.0,
+      "department": "Mathematics",
+      "transfers_to": [
+        "MATH 227H: Honors Analytic Geometry and Calculus II",
+        "MATH 227: Analytic Geometry and Calculus II"
+      ]
+    },
+    {
+      "from_course": "MATH 182",
+      "course_title": "Calculus for Architecture and Construction Management",
+      "units": 4.0,
+      "department": "Mathematics",
+      "transfers_to": [
+        "MATH 227H: Honors Analytic Geometry and Calculus II",
+        "MATH 227: Analytic Geometry and Calculus II"
+      ]
+    },
+    {
+      "from_course": "MATH 192",
+      "course_title": "Calculus for Architecture and Construction Management Workshop",
+      "units": 1.0,
+      "department": "Mathematics",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "MATH 202",
+      "course_title": "Orientation to the Mathematics Major",
+      "units": 1.0,
+      "department": "Mathematics",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "MATH 206",
+      "course_title": "Linear Algebra I",
+      "units": 4.0,
+      "department": "Mathematics",
+      "transfers_to": [
+        "MATH 231: Linear Algebra"
+      ]
+    },
+    {
+      "from_course": "MATH 221",
+      "course_title": "Calculus for Business and Economics",
+      "units": 4.0,
+      "department": "Mathematics",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "MATH 227",
+      "course_title": "Mathematics for Elementary Teaching I",
+      "units": 4.0,
+      "department": "Mathematics",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "MATH 241",
+      "course_title": "Calculus IV",
+      "units": 4.0,
+      "department": "Mathematics",
+      "transfers_to": [
+        "MATH 228: Analytic Geometry and Calculus III",
+        "MATH 228H: Honors Analytic Geometry & Calculus III"
+      ]
+    },
+    {
+      "from_course": "MATH 242",
+      "course_title": "Differential Equations I",
+      "units": 4.0,
+      "department": "Mathematics",
+      "transfers_to": [
+        "MATH 270: Differential Equations"
+      ]
+    },
+    {
+      "from_course": "MATH 244",
+      "course_title": "Linear Analysis I",
+      "units": 4.0,
+      "department": "Mathematics",
+      "transfers_to": [
+        "MATH 270: Differential Equations",
+        "MATH 231: Linear Algebra"
+      ]
+    },
+    {
+      "from_course": "MATH 248",
+      "course_title": "Methods of Proof in Mathematics",
+      "units": 4.0,
+      "department": "Mathematics",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "MCRO 221",
+      "course_title": "Microbiology",
+      "units": 4.0,
+      "department": "Biological Sciences",
+      "transfers_to": [
+        "BIOL 221: General Microbiology"
+      ]
+    },
+    {
+      "from_course": "MCRO 224",
+      "course_title": "General Microbiology I",
+      "units": 5.0,
+      "department": "Biological Sciences",
+      "transfers_to": [
+        "BIOL 221: General Microbiology"
+      ]
+    },
+    {
+      "from_course": "MCRO 225",
+      "course_title": "General Microbiology II",
+      "units": 5.0,
+      "department": "Biological Sciences",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ME 128",
+      "course_title": "Introduction to Mechanical Engineering I",
+      "units": 1.0,
+      "department": "Mechanical Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ME 129",
+      "course_title": "Introduction to Mechanical Engineering II",
+      "units": 1.0,
+      "department": "Mechanical Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ME 130",
+      "course_title": "Introduction to Mechanical Engineering III",
+      "units": 1.0,
+      "department": "Mechanical Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ME 161",
+      "course_title": "Introduction to Composite Materials Manufacturing",
+      "units": 2.0,
+      "department": "Mechanical Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ME 211",
+      "course_title": "Engineering Statics",
+      "units": 3.0,
+      "department": "Mechanical Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ME 212",
+      "course_title": "Engineering Dynamics",
+      "units": 3.0,
+      "department": "Mechanical Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ME 228",
+      "course_title": "Engineering Design Communication",
+      "units": 2.0,
+      "department": "Mechanical Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ME 229",
+      "course_title": "Introduction to Mechanical Engineering for Transfers",
+      "units": 2.0,
+      "department": "Mechanical Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ME 234",
+      "course_title": "Philosophy of Design",
+      "units": 3.0,
+      "department": "Mechanical Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ME 236",
+      "course_title": "Measurements and Engineering Data Analysis",
+      "units": 3.0,
+      "department": "Mechanical Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ME 251",
+      "course_title": "Introduction to Detailed Design with Solid Modeling",
+      "units": 2.0,
+      "department": "Mechanical Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ME 263",
+      "course_title": "Introduction to Mechanical Engineering for Transfer Students",
+      "units": 1.0,
+      "department": "Mechanical Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "ME 264",
+      "course_title": "Introduction to Mechanical Engineering for Transfers Lab",
+      "units": 1.0,
+      "department": "Mechanical Engineering",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "MSCI 100",
+      "course_title": "Orientation to Marine Sciences",
+      "units": 1.0,
+      "department": "Biological Sciences",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "MSCI 111",
+      "course_title": "Survey of Marine Biology",
+      "units": 4.0,
+      "department": "Biological Sciences",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "MSL 101",
+      "course_title": "Foundations of Officership I",
+      "units": 1.0,
+      "department": "Military Science",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "MSL 102",
+      "course_title": "Foundations of Officership II",
+      "units": 1.0,
+      "department": "Military Science",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "MSL 103",
+      "course_title": "Basic Leadership",
+      "units": 1.0,
+      "department": "Military Science",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "MSL 110",
+      "course_title": "Exercises in Military Leadership",
+      "units": 1.0,
+      "department": "Military Science",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "MSL 111",
+      "course_title": "Orienteering",
+      "units": 2.0,
+      "department": "Military Science",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "MSL 112",
+      "course_title": "The Army Physical Fitness Program",
+      "units": 1.0,
+      "department": "Military Science",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "MSL 201",
+      "course_title": "Foundations of Leadership I",
+      "units": 2.0,
+      "department": "Military Science",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "MSL 202",
+      "course_title": "Foundations of Leadership II",
+      "units": 2.0,
+      "department": "Military Science",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "MSL 203",
+      "course_title": "Foundations of Leadership III",
+      "units": 2.0,
+      "department": "Military Science",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "MSL 212",
+      "course_title": "Leader's Training Course",
+      "units": 1.0,
+      "department": "Military Science",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "MSL 229",
+      "course_title": "Ranger Challenge",
+      "units": 2.0,
+      "department": "Military Science",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "MSL 240",
+      "course_title": "American Military History and the Evolution of Western Warfare",
+      "units": 4.0,
+      "department": "Military Science",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "MSL 275",
+      "course_title": "Facilitation and Teambuilding",
+      "units": 2.0,
+      "department": "Military Science",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "MU 101",
+      "course_title": "Introduction to Music Theory",
+      "units": 4.0,
+      "department": "Music",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "MU 103",
+      "course_title": "Music Theory I: Diatonic Materials",
+      "units": 4.0,
+      "department": "Music",
+      "transfers_to": [
+        "MUSC 102: Music Theory - Diatonic Practice I",
+        "MUSC 103: Music Theory II"
+      ]
+    },
+    {
+      "from_course": "MU 104",
+      "course_title": "Musicianship I",
+      "units": 2.0,
+      "department": "Music",
+      "transfers_to": [
+        "MUSC 105: Basic Musicianship Level II"
+      ]
+    },
+    {
+      "from_course": "MU 105",
+      "course_title": "Music Theory II: Chromatic Materials",
+      "units": 4.0,
+      "department": "Music",
+      "transfers_to": [
+        "MUSC 204: Intermediate Musicianship I",
+        "MUSC 202: Intermediate Theory-Chromatic Practice Part I"
+      ]
+    },
+    {
+      "from_course": "MU 106",
+      "course_title": "Musicianship II",
+      "units": 2.0,
+      "department": "Music",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "MU 108",
+      "course_title": "Musicianship III",
+      "units": 2.0,
+      "department": "Music",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "MU 114",
+      "course_title": "Introduction to Composing",
+      "units": 4.0,
+      "department": "Music",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "MU 120",
+      "course_title": "Music Appreciation",
+      "units": 4.0,
+      "department": "Music",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "MU 121",
+      "course_title": "Introduction to Non-Western Musics",
+      "units": 4.0,
+      "department": "Music",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "MU 150",
+      "course_title": "Applied Music",
+      "units": 1.0,
+      "department": "Music",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "MU 151",
+      "course_title": "Beginning Class Piano",
+      "units": 2.0,
+      "department": "Music",
+      "transfers_to": [
+        "MUSC 111: Elementary Piano II",
+        "MUSC 110: Elementary Piano I"
+      ]
+    },
+    {
+      "from_course": "MU 152",
+      "course_title": "Elementary Class Piano",
+      "units": 1.0,
+      "department": "Music",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "MU 154",
+      "course_title": "Beginning Voice",
+      "units": 1.0,
+      "department": "Music",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "MU 155",
+      "course_title": "Beginning Guitar",
+      "units": 1.0,
+      "department": "Music",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "MU 161",
+      "course_title": "Piano Skills I",
+      "units": 1.0,
+      "department": "Music",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "MU 162",
+      "course_title": "Piano Skills II",
+      "units": 1.0,
+      "department": "Music",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "MU 163",
+      "course_title": "Piano Skills III",
+      "units": 1.0,
+      "department": "Music",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "MU 168",
+      "course_title": "Piano Accompanying",
+      "units": 1.0,
+      "department": "Music",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "MU 170",
+      "course_title": "University Jazz Band",
+      "units": 1.0,
+      "department": "Music",
+      "transfers_to": [
+        "MUSC 139: Studio Band"
+      ]
+    },
+    {
+      "from_course": "MU 171",
+      "course_title": "Instrumental Ensembles",
+      "units": 1.0,
+      "department": "Music",
+      "transfers_to": [
+        "MUSC 137: Instrumental Ensemble - Percussion"
+      ]
+    },
+    {
+      "from_course": "MU 172",
+      "course_title": "Wind Orchestra",
+      "units": 1.0,
+      "department": "Music",
+      "transfers_to": [
+        "MUSC 136: College Symphony"
+      ]
+    },
+    {
+      "from_course": "MU 173",
+      "course_title": "Wind Ensemble",
+      "units": 1.0,
+      "department": "Music",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "MU 174",
+      "course_title": "Symphony Orchestra",
+      "units": 1.0,
+      "department": "Music",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "MU 176",
+      "course_title": "Mustang Band",
+      "units": 1.0,
+      "department": "Music",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "MU 177",
+      "course_title": "Chamber Winds",
+      "units": 1.0,
+      "department": "Music",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "MU 178",
+      "course_title": "Field Show Marching Skills",
+      "units": 1.0,
+      "department": "Music",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "MU 181",
+      "course_title": "Polyphonics",
+      "units": 1.0,
+      "department": "Music",
+      "transfers_to": [
+        "MUSC 132: Master Art Chorale",
+        "MUSC 131: College Singers"
+      ]
+    },
+    {
+      "from_course": "MU 182",
+      "course_title": "Cantabile",
+      "units": 1.0,
+      "department": "Music",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "MU 183",
+      "course_title": "Vocal Ensemble",
+      "units": 1.0,
+      "department": "Music",
+      "transfers_to": [
+        "MUSC 134: Musical Theatre"
+      ]
+    },
+    {
+      "from_course": "MU 185",
+      "course_title": "University Singers",
+      "units": 1.0,
+      "department": "Music",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "MU 186",
+      "course_title": "Chamber Choir",
+      "units": 1.0,
+      "department": "Music",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "MU 188",
+      "course_title": "Arab Music Ensemble",
+      "units": 1.0,
+      "department": "Music",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "MU 189",
+      "course_title": "Vocal Practicum",
+      "units": 1.0,
+      "department": "Music",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "MU 210",
+      "course_title": "Musicianship IV",
+      "units": 1.0,
+      "department": "Music",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "MU 211",
+      "course_title": "Musicianship V",
+      "units": 1.0,
+      "department": "Music",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "MU 212",
+      "course_title": "Musicianship VI",
+      "units": 1.0,
+      "department": "Music",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "MU 221",
+      "course_title": "Jazz Styles",
+      "units": 4.0,
+      "department": "Music",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "MU 227",
+      "course_title": "Popular Music of the USA",
+      "units": 4.0,
+      "department": "Music",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "MU 228",
+      "course_title": "Music of the 60s: War and Peace",
+      "units": 4.0,
+      "department": "Music",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "MU 250",
+      "course_title": "Applied Music",
+      "units": 1.0,
+      "department": "Music",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "MU 253",
+      "course_title": "Advanced Class Piano",
+      "units": 1.0,
+      "department": "Music",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "MU 259",
+      "course_title": "Beginning Jazz Improvisation",
+      "units": 2.0,
+      "department": "Music",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "MU 261",
+      "course_title": "Piano Skills IV",
+      "units": 1.0,
+      "department": "Music",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "MU 262",
+      "course_title": "Piano Skills V",
+      "units": 1.0,
+      "department": "Music",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "MU 263",
+      "course_title": "Piano Skills VI",
+      "units": 1.0,
+      "department": "Music",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "MU 265",
+      "course_title": "Accelerated Piano Skills",
+      "units": 1.0,
+      "department": "Music",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "NR 140",
+      "course_title": "Careers in Natural Resources Management & Environmental Sciences",
+      "units": 1.0,
+      "department": "Natural Resources Management and Environmental Sciences",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "NR 141",
+      "course_title": "Introduction to Forest Ecosystem Management",
+      "units": 3.0,
+      "department": "Natural Resources Management and Environmental Sciences",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "NR 142",
+      "course_title": "Environmental Management",
+      "units": 3.0,
+      "department": "Natural Resources Management and Environmental Sciences",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "NR 203",
+      "course_title": "Resource Law Enforcement",
+      "units": 3.0,
+      "department": "Natural Resources Management and Environmental Sciences",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "NR 204",
+      "course_title": "Wildland Fire Control",
+      "units": 3.0,
+      "department": "Natural Resources Management and Environmental Sciences",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "NR 208",
+      "course_title": "Dendrology",
+      "units": 4.0,
+      "department": "Natural Resources Management and Environmental Sciences",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "NR 215",
+      "course_title": "Land and Resource Measurements",
+      "units": 1.0,
+      "department": "Natural Resources Management and Environmental Sciences",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "NR 218",
+      "course_title": "Introduction to Geographic Information Systems (GIS)",
+      "units": 3.0,
+      "department": "Natural Resources Management and Environmental Sciences",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "NR 247",
+      "course_title": "Forest Surveying",
+      "units": 2.0,
+      "department": "Natural Resources Management and Environmental Sciences",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "NR 260",
+      "course_title": "Forest Operations",
+      "units": 4.0,
+      "department": "Natural Resources Management and Environmental Sciences",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "NR 290",
+      "course_title": "Intercollegiate Forestry Activities",
+      "units": 1.0,
+      "department": "Natural Resources Management and Environmental Sciences",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "PHIL 101",
+      "course_title": "Introduction to Philosophy",
+      "units": 4.0,
+      "department": "Philosophy",
+      "transfers_to": [
+        "PHIL 101: Introduction to Philosophy: Enduring Questions"
+      ]
+    },
+    {
+      "from_course": "PHIL 126",
+      "course_title": "Logic and Argumentative Writing",
+      "units": 4.0,
+      "department": "Philosophy",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "PHIL 230",
+      "course_title": "Philosophical Classics: Knowledge & Reality",
+      "units": 4.0,
+      "department": "Philosophy",
+      "transfers_to": [
+        "PHIL 121: History of Modern and Contemporary Philosophy",
+        "PHIL 118: Philosophy of Science"
+      ]
+    },
+    {
+      "from_course": "PHIL 231",
+      "course_title": "Philosophical Classics: Ethics and Political Philosophy",
+      "units": 4.0,
+      "department": "Philosophy",
+      "transfers_to": [
+        "PHIL 114: Introduction to Political Theory Thought"
+      ]
+    },
+    {
+      "from_course": "PHIL 241",
+      "course_title": "Symbolic Logic",
+      "units": 4.0,
+      "department": "Philosophy",
+      "transfers_to": [
+        "PHIL 109: Introduction to Logic"
+      ]
+    },
+    {
+      "from_course": "PHYS 104",
+      "course_title": "Introductory Physics",
+      "units": 4.0,
+      "department": "Physics",
+      "transfers_to": [
+        "PHYS 100: Introductory Physics"
+      ]
+    },
+    {
+      "from_course": "PHYS 111",
+      "course_title": "Contemporary Physics for Nonscientists",
+      "units": 4.0,
+      "department": "Physics",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "PHYS 121",
+      "course_title": "College Physics I",
+      "units": 4.0,
+      "department": "Physics",
+      "transfers_to": [
+        "PHYS 221: General Physics"
+      ]
+    },
+    {
+      "from_course": "PHYS 122",
+      "course_title": "College Physics II",
+      "units": 4.0,
+      "department": "Physics",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "PHYS 123",
+      "course_title": "College Physics III",
+      "units": 4.0,
+      "department": "Physics",
+      "transfers_to": [
+        "PHYS 222: General Physics"
+      ]
+    },
+    {
+      "from_course": "PHYS 125",
+      "course_title": "College Physics I Laboratory",
+      "units": 1.0,
+      "department": "Physics",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "PHYS 141",
+      "course_title": "General Physics I",
+      "units": 4.0,
+      "department": "Physics",
+      "transfers_to": [
+        "PHYS 201: Engineering Physics (Mechanics of Solids)"
+      ]
+    },
+    {
+      "from_course": "PHYS 142",
+      "course_title": "General Physics II",
+      "units": 4.0,
+      "department": "Physics",
+      "transfers_to": [
+        "PHYS 204H: Honors Engineering Physics",
+        "PHYS 202: Engineering Physics (Mechanics of Fluids, Heat and Sound)"
+      ]
+    },
+    {
+      "from_course": "PHYS 143",
+      "course_title": "General Physics III",
+      "units": 4.0,
+      "department": "Physics",
+      "transfers_to": [
+        "PHYS 203: Engineering Physics (Electricity and Magnetism)"
+      ]
+    },
+    {
+      "from_course": "PHYS 202",
+      "course_title": "Physics on the Computer",
+      "units": 4.0,
+      "department": "Physics",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "PHYS 206",
+      "course_title": "Electronics and Instrumentation",
+      "units": 4.0,
+      "department": "Physics",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "PHYS 211",
+      "course_title": "Modern Physics I",
+      "units": 4.0,
+      "department": "Physics",
+      "transfers_to": [
+        "PHYS 204H: Honors Engineering Physics"
+      ]
+    },
+    {
+      "from_course": "PHYS 212",
+      "course_title": "Modern Physics II",
+      "units": 4.0,
+      "department": "Physics",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "PLSC 101",
+      "course_title": "Orientation to Horticulture and Crop Science",
+      "units": 1.0,
+      "department": "Plant Sciences",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "PLSC 110",
+      "course_title": "People, Pests and Plagues",
+      "units": 4.0,
+      "department": "Plant Sciences",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "PLSC 120",
+      "course_title": "Principles of Horticulture and Crop Science",
+      "units": 4.0,
+      "department": "Plant Sciences",
+      "transfers_to": [
+        "AGNR 150: Landscape Design"
+      ]
+    },
+    {
+      "from_course": "PLSC 123",
+      "course_title": "Landscape Installation and Maintenance",
+      "units": 4.0,
+      "department": "Plant Sciences",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "PLSC 124",
+      "course_title": "Plant Propagation",
+      "units": 4.0,
+      "department": "Plant Sciences",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "PLSC 126",
+      "course_title": "Landscape Construction",
+      "units": 3.0,
+      "department": "Plant Sciences",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "PLSC 127",
+      "course_title": "Horticulture and Landscape Design",
+      "units": 4.0,
+      "department": "Plant Sciences",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "PLSC 132",
+      "course_title": "Pomology I",
+      "units": 4.0,
+      "department": "Plant Sciences",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "PLSC 133",
+      "course_title": "Pomology II",
+      "units": 4.0,
+      "department": "Plant Sciences",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "PLSC 150",
+      "course_title": "Forage Crops",
+      "units": 4.0,
+      "department": "Plant Sciences",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "PLSC 175",
+      "course_title": "Beekeeping",
+      "units": 3.0,
+      "department": "Plant Sciences",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "PLSC 190",
+      "course_title": "California Vegetable Production",
+      "units": 4.0,
+      "department": "Plant Sciences",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "PLSC 215",
+      "course_title": "Floral Design I",
+      "units": 3.0,
+      "department": "Plant Sciences",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "PLSC 225",
+      "course_title": "Floral Design II",
+      "units": 3.0,
+      "department": "Plant Sciences",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "PLSC 230",
+      "course_title": "Environmental Horticulture",
+      "units": 4.0,
+      "department": "Plant Sciences",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "PLSC 232",
+      "course_title": "Basic Viticulture",
+      "units": 4.0,
+      "department": "Plant Sciences",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "PLSC 233",
+      "course_title": "Plant Materials I",
+      "units": 4.0,
+      "department": "Plant Sciences",
+      "transfers_to": [
+        "AGNR 140: Plant Materials and Usage I"
+      ]
+    },
+    {
+      "from_course": "PLSC 234",
+      "course_title": "Plant Materials II",
+      "units": 4.0,
+      "department": "Plant Sciences",
+      "transfers_to": [
+        "AGNR 141: Plant Materials and Usage II"
+      ]
+    },
+    {
+      "from_course": "PLSC 240",
+      "course_title": "Commercial Seed Production",
+      "units": 4.0,
+      "department": "Plant Sciences",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "PLSC 244",
+      "course_title": "Precision Farming",
+      "units": 4.0,
+      "department": "Plant Sciences",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "PLSC 245",
+      "course_title": "Horticultural Production Techniques",
+      "units": 3.0,
+      "department": "Plant Sciences",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "POLS 111",
+      "course_title": "California Constitution and Government",
+      "units": 1.0,
+      "department": "Political Science",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "POLS 112",
+      "course_title": "American and California Government",
+      "units": 4.0,
+      "department": "Political Science",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "POLS 180",
+      "course_title": "Political Inquiry",
+      "units": 4.0,
+      "department": "Political Science",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "POLS 225",
+      "course_title": "Introduction to International Relations",
+      "units": 4.0,
+      "department": "Political Science",
+      "transfers_to": [
+        "POLS 110: Introduction to International Relations"
+      ]
+    },
+    {
+      "from_course": "POLS 229",
+      "course_title": "Introduction to Comparative Politics",
+      "units": 4.0,
+      "department": "Political Science",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "POLS 230",
+      "course_title": "Basic Concepts of Political Thought",
+      "units": 4.0,
+      "department": "Political Science",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "POLS 245",
+      "course_title": "Judicial Process",
+      "units": 4.0,
+      "department": "Political Science",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "POLS 285",
+      "course_title": "Model United Nations",
+      "units": 4.0,
+      "department": "Political Science",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "POLS 295",
+      "course_title": "Foundations of Mock Trial",
+      "units": 4.0,
+      "department": "Political Science",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "PSC 101",
+      "course_title": "Matter and Energy",
+      "units": 4.0,
+      "department": "Physics",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "PSC 102",
+      "course_title": "Atoms and Molecules",
+      "units": 4.0,
+      "department": "Physics",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "PSC 103",
+      "course_title": "The Physical Environment: Earth",
+      "units": 4.0,
+      "department": "Physics",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "PSC 201",
+      "course_title": "Physical Oceanography",
+      "units": 4.0,
+      "department": "Physics",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "PSY 201",
+      "course_title": "General Psychology",
+      "units": 4.0,
+      "department": "Psychology and Child Development",
+      "transfers_to": [
+        "PSYC 101: Introductory Psychology"
+      ]
+    },
+    {
+      "from_course": "PSY 202",
+      "course_title": "General Psychology",
+      "units": 4.0,
+      "department": "Psychology and Child Development",
+      "transfers_to": [
+        "PSYC 101: Introductory Psychology"
+      ]
+    },
+    {
+      "from_course": "PSY 252",
+      "course_title": "Social Psychology",
+      "units": 4.0,
+      "department": "Psychology and Child Development",
+      "transfers_to": [
+        "PSYC 204: Social Psychology"
+      ]
+    },
+    {
+      "from_course": "PSY 254",
+      "course_title": "Family Psychology",
+      "units": 4.0,
+      "department": "Psychology and Child Development",
+      "transfers_to": [
+        "CHDV 106: Child, Family and Community"
+      ]
+    },
+    {
+      "from_course": "PSY 256",
+      "course_title": "Developmental Psychology",
+      "units": 4.0,
+      "department": "Psychology and Child Development",
+      "transfers_to": [
+        "PSYC 110: Developmental Psychology"
+      ]
+    },
+    {
+      "from_course": "PSY 260",
+      "course_title": "African American Psychology",
+      "units": 4.0,
+      "department": "Psychology and Child Development",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "RELS 201",
+      "course_title": "Religion, Dialogue and Society",
+      "units": 4.0,
+      "department": "Philosophy",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "RELS 205",
+      "course_title": "Jesus",
+      "units": 4.0,
+      "department": "Philosophy",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "RPTA 101",
+      "course_title": "Introduction to the Experience Industry",
+      "units": 4.0,
+      "department": "Recreation, Parks, and Tourism Administration",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "RPTA 110",
+      "course_title": "Orientation and College Success in Experience Industry Management",
+      "units": 1.0,
+      "department": "Recreation, Parks, and Tourism Administration",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "RPTA 112",
+      "course_title": "Introduction to Parks and Outdoor Recreation",
+      "units": 4.0,
+      "department": "Recreation, Parks, and Tourism Administration",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "RPTA 114",
+      "course_title": "Introduction to Hospitality and Travel",
+      "units": 4.0,
+      "department": "Recreation, Parks, and Tourism Administration",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "RPTA 121",
+      "course_title": "Theories and Frameworks of Experience Design",
+      "units": 4.0,
+      "department": "Recreation, Parks, and Tourism Administration",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "RPTA 160",
+      "course_title": "Introduction to Sport Management",
+      "units": 4.0,
+      "department": "Recreation, Parks, and Tourism Administration",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "RPTA 201",
+      "course_title": "Sociocultural Dimensions of Work and Leisure",
+      "units": 4.0,
+      "department": "Recreation, Parks, and Tourism Administration",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "RPTA 203",
+      "course_title": "Resource Law Enforcement",
+      "units": 3.0,
+      "department": "Recreation, Parks, and Tourism Administration",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "RPTA 210",
+      "course_title": "Experience Design",
+      "units": 4.0,
+      "department": "Recreation, Parks, and Tourism Administration",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "RPTA 216",
+      "course_title": "Resort and Lodging Operations",
+      "units": 4.0,
+      "department": "Recreation, Parks, and Tourism Administration",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "RPTA 221",
+      "course_title": "Professionalism and Customer Experiences",
+      "units": 4.0,
+      "department": "Recreation, Parks, and Tourism Administration",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "RPTA 255",
+      "course_title": "Leadership and Diverse Groups",
+      "units": 4.0,
+      "department": "Recreation, Parks, and Tourism Administration",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "RPTA 260",
+      "course_title": "Community Relations and Sports-Based Youth Development",
+      "units": 4.0,
+      "department": "Recreation, Parks, and Tourism Administration",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "RPTA 275",
+      "course_title": "Facilitation and Teambuilding",
+      "units": 2.0,
+      "department": "Recreation, Parks, and Tourism Administration",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "SCM 101",
+      "course_title": "Introduction to the Health Professions",
+      "units": 1.0,
+      "department": "College of Science and Mathematics",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "SOC 110",
+      "course_title": "Comparative Societies",
+      "units": 4.0,
+      "department": "Social Sciences",
+      "transfers_to": [
+        "SOC 101: Introduction to Sociology"
+      ]
+    },
+    {
+      "from_course": "SOC 111",
+      "course_title": "Social Problems",
+      "units": 4.0,
+      "department": "Social Sciences",
+      "transfers_to": [
+        "SOC 102:  Social Problems"
+      ]
+    },
+    {
+      "from_course": "SOC 216",
+      "course_title": "US Race and Ethnic Relations",
+      "units": 4.0,
+      "department": "Social Sciences",
+      "transfers_to": [
+        "SOC 107: Introduction to Race and Ethnicity"
+      ]
+    },
+    {
+      "from_course": "SOC 218",
+      "course_title": "International Political Economy",
+      "units": 4.0,
+      "department": "Social Sciences",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "SOC 222",
+      "course_title": "Classical Social Theory",
+      "units": 4.0,
+      "department": "Social Sciences",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "SPAN 101",
+      "course_title": "Elementary Spanish I",
+      "units": 4.0,
+      "department": "World Languages and Cultures",
+      "transfers_to": [
+        "SPAN 101: Elementary Spanish"
+      ]
+    },
+    {
+      "from_course": "SPAN 102",
+      "course_title": "Elementary Spanish II",
+      "units": 4.0,
+      "department": "World Languages and Cultures",
+      "transfers_to": [
+        "SPAN 101: Elementary Spanish",
+        "SPAN 102: Elementary Spanish"
+      ]
+    },
+    {
+      "from_course": "SPAN 103",
+      "course_title": "Elementary Spanish III",
+      "units": 4.0,
+      "department": "World Languages and Cultures",
+      "transfers_to": [
+        "SPAN 102: Elementary Spanish"
+      ]
+    },
+    {
+      "from_course": "SPAN 104",
+      "course_title": "Intensive Elementary Spanish",
+      "units": 12.0,
+      "department": "World Languages and Cultures",
+      "transfers_to": [
+        "SPAN 101: Elementary Spanish",
+        "SPAN 102: Elementary Spanish"
+      ]
+    },
+    {
+      "from_course": "SPAN 111",
+      "course_title": "Elementary Hispanic Language and Culture",
+      "units": 4.0,
+      "department": "World Languages and Cultures",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "SPAN 201",
+      "course_title": "Intermediate Spanish I",
+      "units": 4.0,
+      "department": "World Languages and Cultures",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "SPAN 202",
+      "course_title": "Intermediate Spanish II",
+      "units": 4.0,
+      "department": "World Languages and Cultures",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "SPAN 203",
+      "course_title": "Intermediate Spanish III",
+      "units": 4.0,
+      "department": "World Languages and Cultures",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "SPAN 206",
+      "course_title": "Spanish for Heritage Speakers",
+      "units": 4.0,
+      "department": "World Languages and Cultures",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "SPAN 207",
+      "course_title": "Introduction to Spanish Linguistics",
+      "units": 4.0,
+      "department": "World Languages and Cultures",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "SPAN 233",
+      "course_title": "Introduction to Hispanic Readings",
+      "units": 4.0,
+      "department": "World Languages and Cultures",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "SS 120",
+      "course_title": "Introductory Soil Science",
+      "units": 4.0,
+      "department": "Natural Resources Management and Environmental Sciences",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "SS 130",
+      "course_title": "Soils in Environmental and Agricultural Systems",
+      "units": 4.0,
+      "department": "Natural Resources Management and Environmental Sciences",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "SS 221",
+      "course_title": "Soil Health and Plant Nutrition",
+      "units": 4.0,
+      "department": "Natural Resources Management and Environmental Sciences",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "STAT 130",
+      "course_title": "Introduction to Statistical Reasoning",
+      "units": 4.0,
+      "department": "Statistics",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "STAT 150",
+      "course_title": "Introduction to the Discipline of Statistics",
+      "units": 2.0,
+      "department": "Statistics",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "STAT 217",
+      "course_title": "Introduction to Statistical Concepts and Methods",
+      "units": 4.0,
+      "department": "Statistics",
+      "transfers_to": [
+        "MATH 120: Introduction to Statistics"
+      ]
+    },
+    {
+      "from_course": "STAT 218",
+      "course_title": "Applied Statistics for the Life Sciences",
+      "units": 4.0,
+      "department": "Statistics",
+      "transfers_to": [
+        "MATH 120: Introduction to Statistics"
+      ]
+    },
+    {
+      "from_course": "STAT 251",
+      "course_title": "Statistical Inference for Management I",
+      "units": 4.0,
+      "department": "Statistics",
+      "transfers_to": [
+        "MATH 120: Introduction to Statistics"
+      ]
+    },
+    {
+      "from_course": "STAT 252",
+      "course_title": "Statistical Inference for Management II",
+      "units": 5.0,
+      "department": "Statistics",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "TH 210",
+      "course_title": "Introduction to Theatre",
+      "units": 4.0,
+      "department": "Theatre and Dance",
+      "transfers_to": [
+        "TA 101: Introduction to Theatre"
+      ]
+    },
+    {
+      "from_course": "TH 215",
+      "course_title": "Verbatim Theatre",
+      "units": 4.0,
+      "department": "Theatre and Dance",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "TH 220",
+      "course_title": "Acting I",
+      "units": 4.0,
+      "department": "Theatre and Dance",
+      "transfers_to": [
+        "TA 106: Beginning Acting"
+      ]
+    },
+    {
+      "from_course": "TH 225",
+      "course_title": "Costume Construction I",
+      "units": 4.0,
+      "department": "Theatre and Dance",
+      "transfers_to": [
+        "TA 120: Costuming for the Theater"
+      ]
+    },
+    {
+      "from_course": "TH 227",
+      "course_title": "Theatre History I",
+      "units": 4.0,
+      "department": "Theatre and Dance",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "TH 228",
+      "course_title": "Theatre History II",
+      "units": 4.0,
+      "department": "Theatre and Dance",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "TH 230",
+      "course_title": "Stagecraft I",
+      "units": 4.0,
+      "department": "Theatre and Dance",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "TH 235",
+      "course_title": "Acting II",
+      "units": 4.0,
+      "department": "Theatre and Dance",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "TH 240",
+      "course_title": "Improvisational Theatre",
+      "units": 4.0,
+      "department": "Theatre and Dance",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "TH 245",
+      "course_title": "Introduction to Stage Management",
+      "units": 4.0,
+      "department": "Theatre and Dance",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "TH 255",
+      "course_title": "Technical Theatre Production",
+      "units": 4.0,
+      "department": "Theatre and Dance",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "TH 256",
+      "course_title": "Technology in Theatrical Design",
+      "units": 4.0,
+      "department": "Theatre and Dance",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "TH 260",
+      "course_title": "Voice and Diction for the Stage",
+      "units": 4.0,
+      "department": "Theatre and Dance",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "TH 265",
+      "course_title": "Scenic Painting",
+      "units": 4.0,
+      "department": "Theatre and Dance",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "TH 270",
+      "course_title": "Stage Make-Up",
+      "units": 4.0,
+      "department": "Theatre and Dance",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "TH 280",
+      "course_title": "Body Awareness and Expression",
+      "units": 4.0,
+      "department": "Theatre and Dance",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "TH 290",
+      "course_title": "Script Analysis",
+      "units": 4.0,
+      "department": "Theatre and Dance",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "TH 295",
+      "course_title": "Foundations in Theatrical Design",
+      "units": 4.0,
+      "department": "Theatre and Dance",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "WGQS 145",
+      "course_title": "Reasoning, Argumentation, and Writing on Gender and Sexuality",
+      "units": 4.0,
+      "department": "Women\u2019s, Gender and Queer Studies",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "WGQS 201",
+      "course_title": "Gender and Sexuality in US Society and Politics",
+      "units": 4.0,
+      "department": "Women\u2019s, Gender and Queer Studies",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "WGQS 210",
+      "course_title": "Gender and Sexuality in Visual and Popular Culture",
+      "units": 4.0,
+      "department": "Women\u2019s, Gender and Queer Studies",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "WLC 202",
+      "course_title": "Intermediate World Language II",
+      "units": 4.0,
+      "department": "World Languages and Cultures",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "WVIT 102",
+      "course_title": "Global Wine and Viticulture",
+      "units": 4.0,
+      "department": "Wine and Viticulture",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "WVIT 202",
+      "course_title": "Fundamentals of Enology",
+      "units": 4.0,
+      "department": "Wine and Viticulture",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    },
+    {
+      "from_course": "WVIT 233",
+      "course_title": "Basic Viticulture",
+      "units": 4.0,
+      "department": "Wine and Viticulture",
+      "transfers_to": [
+        "No equivalent course"
+      ]
+    }
+  ]
+}
