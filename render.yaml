@@ -1,0 +1,22 @@
+services:
+  - type: cron
+    name: assist-get-institutions
+    runtime: python
+    plan: free
+    schedule: "0 6 * * *"
+    buildCommand: pip install -r requirements.txt
+    startCommand: python get_institutions.py
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.9
+
+  - type: cron
+    name: assist-calgetc
+    runtime: python
+    plan: free
+    schedule: "30 6 * * *"
+    buildCommand: pip install -r requirements.txt
+    startCommand: python calgetc.py --institutionId 133 --academicYearId 76 --listType CALGETC --out calgetc_transfers.json
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.9
