@@ -40,6 +40,39 @@ Install dependencies with:
 pip install -r requirements.txt
 ```
 
+## Docker
+
+Build the image:
+
+```bash
+docker build -t assist-reader .
+```
+
+### Default container run
+
+Runs `get_institutions.py` (default command in the image):
+
+```bash
+docker run --rm -v "$(pwd)":/app assist-reader
+```
+
+### Run a specific script
+
+Because the image uses `python` as the entrypoint, pass the script and args:
+
+```bash
+# Institution list
+docker run --rm -v "$(pwd)":/app assist-reader get_institutions.py
+
+# Simplified transfers (example codes)
+docker run --rm -v "$(pwd)":/app assist-reader make_simple_transfers.py 3 115
+
+# CALGETC transferability (defaults shown in script)
+docker run --rm -v "$(pwd)":/app assist-reader calgetc.py --institutionId 133 --academicYearId 76 --listType CALGETC --out calgetc_transfers.json
+```
+
+The `-v "$(pwd)":/app` mount makes output files available directly in your local project folder.
+
 ## Usage
 
 ### Generate school codes
