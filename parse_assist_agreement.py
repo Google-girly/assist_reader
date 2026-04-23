@@ -86,6 +86,62 @@ def split_or_options(rendered_groups: List[str], group_map: Dict[Any, str]) -> L
     return options
 
 
+def build_fulfillment_options(sending: Dict[str, Any]) -> List[Dict[str, Any]]:
+    groups = sorted(
+        sending.get("items") or [],
+        key=lambda g: g.get("position", 0),
+    )
+    if not groups:
+        return []
+
+    group_map = {
+        (c.get("sendingCourseGroupBeginPosition"), c.get("sendingCourseGroupEndPosition")): as_text(
+            c.get("groupConjunction")
+        )
+        for c in (sending.get("courseGroupConjunctions") or [])
+    }
+
+    option_groups: List[List[Dict[str, Any]]] = []
+    for i, group in enumerate(groups):
+        courses = [course_label(item) for item in (group.get("items") or []) if item.get("type") == "Course"]
+        courses = [c for c in courses if c]
+        if not courses:
+            continue
+
+        group_conjunction = (as_text(group.get("courseConjunction")) or "And").upper()
+        group_payload = {
+            "group_conjunction": group_conjunction,
+            "courses": courses,
+        }
+
+        if not option_groups:
+            option_groups = [[group_payload]]
+            continue
+
+        between_groups = (group_map.get((i - 1, i), "And") or "And").strip().upper()
+        if between_groups == "OR":
+            option_groups.append([group_payload])
+        else:
+            option_groups = [opt + [group_payload] for opt in option_groups]
+
+    options: List[Dict[str, Any]] = []
+    for idx, grouped in enumerate(option_groups, start=1):
+        flattened_courses: List[str] = []
+        for g in grouped:
+            flattened_courses.extend(g["courses"])
+
+        options.append(
+            {
+                "option": idx,
+                "groups": grouped,
+                "courses": flattened_courses,
+                "must_take_together": len(flattened_courses) > 1,
+            }
+        )
+
+    return options
+
+
 def render_sending_articulation(sending: Dict[str, Any]) -> str:
     reason = as_text(sending.get("noArticulationReason"))
     if reason:
@@ -132,6 +188,7 @@ def sending_articulation_details(sending: Dict[str, Any]) -> Dict[str, Any]:
         return {
             "sending_courses": f"No articulation ({reason})",
             "sending_course_options": [],
+            "fulfillment_options": [],
             "no_articulation_reason": reason,
             "denied_courses": denied,
         }
@@ -151,11 +208,13 @@ def sending_articulation_details(sending: Dict[str, Any]) -> Dict[str, Any]:
     rendered_groups = [render_group(g) for g in groups]
     rendered_groups = [r for r in rendered_groups if r]
     options = split_or_options(rendered_groups, group_map)
+    fulfillment_options = build_fulfillment_options(sending)
 
     sending_text = render_sending_articulation(sending)
     return {
         "sending_courses": sending_text,
         "sending_course_options": options,
+        "fulfillment_options": fulfillment_options,
         "no_articulation_reason": "",
         "denied_courses": denied,
     }
@@ -242,6 +301,7 @@ def parse_agreement(path: Path) -> List[Dict[str, Any]]:
             "receiving_requirement": receiving_desc,
             "sending_courses": sending_details["sending_courses"],
             "sending_course_options": sending_details["sending_course_options"],
+            "fulfillment_options": sending_details["fulfillment_options"],
             "no_articulation_reason": sending_details["no_articulation_reason"],
             "denied_courses": sending_details["denied_courses"],
             "template_cell_id": as_text(cell_id),
