@@ -1,7 +1,7 @@
 import requests
 import json
 
-URL = "https://www.assist.org/api/institutions"
+URL = "https://prod.assistng.org/Institutions/api"
 
 def main():
     response = requests.get(URL)
