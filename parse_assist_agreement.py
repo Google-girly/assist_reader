@@ -2,6 +2,7 @@ import argparse
 import csv
 import json
 from pathlib import Path
+from datetime import datetime, timezone
 from typing import Any, Dict, List, Optional
 
 
@@ -262,7 +263,11 @@ def build_template_index(template_assets: List[Dict[str, Any]]) -> Dict[str, Dic
 
 
 def parse_agreement(path: Path) -> List[Dict[str, Any]]:
-    raw = json.loads(path.read_text(encoding="utf-8"))
+    text = path.read_text(encoding="utf-8").strip()
+    if not text:
+        raise ValueError(f"Input file is empty: {path}")
+
+    raw = json.loads(text)
     result = raw["result"]
 
     receiving_inst = parse_embedded_json(result.get("receivingInstitution")) or {}
@@ -280,23 +285,21 @@ def parse_agreement(path: Path) -> List[Dict[str, Any]]:
 
     rows: List[Dict[str, Any]] = []
     seen = set()
-    for entry in articulations:
-        cell_id = entry.get("templateCellId")
-        articulation = entry.get("articulation") or {}
+    is_template_shape = bool(articulations) and isinstance(articulations[0], dict) and "templateCellId" in articulations[0]
+
+    def add_row(cell_id: str, articulation: Dict[str, Any], template: Dict[str, str], category_name: str = "") -> None:
         sending = articulation.get("sendingArticulation") or {}
-
-        template = template_index.get(cell_id, {})
         receiving_desc = receiving_label(articulation) or template.get("receiving_label", "")
-
         sending_details = sending_articulation_details(sending)
 
         row = {
             "academic_year": academic_year,
             "sending_institution": sending_name,
             "receiving_institution": receiving_name,
-            "major": template.get("major", ""),
+            "major": template.get("major", category_name),
             "group": template.get("group", ""),
             "section": template.get("section", ""),
+            "category": category_name,
             "receiving_type": template.get("receiving_type", as_text(articulation.get("type"))),
             "receiving_requirement": receiving_desc,
             "sending_courses": sending_details["sending_courses"],
@@ -312,15 +315,66 @@ def parse_agreement(path: Path) -> List[Dict[str, Any]]:
             row["sending_institution"],
             row["receiving_institution"],
             row["major"],
+            row["category"],
             row["receiving_requirement"],
             row["sending_courses"],
         )
         if dedupe_key in seen:
-            continue
+            return
         seen.add(dedupe_key)
         rows.append(row)
 
+    if is_template_shape:
+        for entry in articulations:
+            cell_id = entry.get("templateCellId")
+            articulation = entry.get("articulation") or {}
+            template = template_index.get(cell_id, {})
+            add_row(as_text(cell_id), articulation, template)
+    else:
+        for bucket in articulations:
+            if not isinstance(bucket, dict):
+                continue
+            category_name = as_text(bucket.get("name"))
+            for articulation in (bucket.get("articulations") or []):
+                if not isinstance(articulation, dict):
+                    continue
+                add_row("", articulation, {}, category_name)
+
     return rows
+
+
+def parse_agreement_bundle(path: Path) -> Dict[str, Any]:
+    text = path.read_text(encoding="utf-8").strip()
+    if not text:
+        raise ValueError(f"Input file is empty: {path}")
+
+    raw = json.loads(text)
+    result = raw.get("result") or {}
+    receiving_inst = parse_embedded_json(result.get("receivingInstitution")) or {}
+    sending_inst = parse_embedded_json(result.get("sendingInstitution")) or {}
+    year_info = parse_embedded_json(result.get("academicYear")) or {}
+    catalog_info = parse_embedded_json(result.get("catalogYear")) or {}
+
+    file_name = path.name
+    agreement_code = file_name[:2] if len(file_name) >= 2 else ""
+
+    rows = parse_agreement(path)
+    return {
+        "file": file_name,
+        "agreement_code": agreement_code,
+        "agreement_type": as_text(result.get("type")),
+        "agreement_name": as_text(result.get("name")),
+        "publish_date": as_text(result.get("publishDate")),
+        "academic_year": as_text(year_info.get("code")),
+        "catalog_year": catalog_info,
+        "sending_institution": as_text(((sending_inst.get("names") or [{}])[0]).get("name")),
+        "receiving_institution": as_text(((receiving_inst.get("names") or [{}])[0]).get("name")),
+        "sending_id": sending_inst.get("id"),
+        "receiving_id": receiving_inst.get("id"),
+        "row_count": len(rows),
+        "parsed_at": datetime.now(timezone.utc).isoformat(),
+        "mappings": rows,
+    }
 
 
 def write_outputs(rows: List[Dict[str, Any]], json_path: Path, csv_path: Path) -> None:
