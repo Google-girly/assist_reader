@@ -1,0 +1,1662 @@
+{
+  "receiving_id": 12,
+  "total_targets": 138,
+  "targets": [
+    {
+      "from_id": 1,
+      "schoolName": "California Maritime Academy",
+      "isCommunityCollege": false,
+      "category": 0,
+      "folder": "12_1",
+      "files": [
+        "AD12_1.json",
+        "AM12_1.json",
+        "AP12_1.json"
+      ]
+    },
+    {
+      "from_id": 2,
+      "schoolName": "Evergreen Valley College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_2",
+      "files": [
+        "AD12_2.json",
+        "AM12_2.json",
+        "AP12_2.json"
+      ]
+    },
+    {
+      "from_id": 3,
+      "schoolName": "Los Angeles City College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_3",
+      "files": [
+        "AD12_3.json",
+        "AM12_3.json",
+        "AP12_3.json"
+      ]
+    },
+    {
+      "from_id": 4,
+      "schoolName": "College of Marin",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_4",
+      "files": [
+        "AD12_4.json",
+        "AM12_4.json",
+        "AP12_4.json"
+      ]
+    },
+    {
+      "from_id": 5,
+      "schoolName": "College of San Mateo",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_5",
+      "files": [
+        "AD12_5.json",
+        "AM12_5.json",
+        "AP12_5.json"
+      ]
+    },
+    {
+      "from_id": 6,
+      "schoolName": "College of the Sequoias",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_6",
+      "files": [
+        "AD12_6.json",
+        "AM12_6.json",
+        "AP12_6.json"
+      ]
+    },
+    {
+      "from_id": 8,
+      "schoolName": "Butte College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_8",
+      "files": [
+        "AD12_8.json",
+        "AM12_8.json",
+        "AP12_8.json"
+      ]
+    },
+    {
+      "from_id": 9,
+      "schoolName": "Cerro Coso Community College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_9",
+      "files": [
+        "AD12_9.json",
+        "AM12_9.json",
+        "AP12_9.json"
+      ]
+    },
+    {
+      "from_id": 10,
+      "schoolName": "Columbia College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_10",
+      "files": [
+        "AD12_10.json",
+        "AM12_10.json",
+        "AP12_10.json"
+      ]
+    },
+    {
+      "from_id": 11,
+      "schoolName": "California Polytechnic University, San Luis Obispo",
+      "isCommunityCollege": false,
+      "category": 0,
+      "folder": "12_11",
+      "files": [
+        "AD12_11.json",
+        "AM12_11.json",
+        "AP12_11.json"
+      ]
+    },
+    {
+      "from_id": 13,
+      "schoolName": "Merritt College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_13",
+      "files": [
+        "AD12_13.json",
+        "AM12_13.json",
+        "AP12_13.json"
+      ]
+    },
+    {
+      "from_id": 14,
+      "schoolName": "Rancho Santiago College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_14",
+      "files": [
+        "AD12_14.json",
+        "AM12_14.json",
+        "AP12_14.json"
+      ]
+    },
+    {
+      "from_id": 16,
+      "schoolName": "Cuesta College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_16",
+      "files": [
+        "AD12_16.json",
+        "AM12_16.json",
+        "AP12_16.json"
+      ]
+    },
+    {
+      "from_id": 17,
+      "schoolName": "Merced College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_17",
+      "files": [
+        "AD12_17.json",
+        "AM12_17.json",
+        "AP12_17.json"
+      ]
+    },
+    {
+      "from_id": 18,
+      "schoolName": "Las Positas College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_18",
+      "files": [
+        "AD12_18.json",
+        "AM12_18.json",
+        "AP12_18.json"
+      ]
+    },
+    {
+      "from_id": 19,
+      "schoolName": "Victor Valley College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_19",
+      "files": [
+        "AD12_19.json",
+        "AM12_19.json",
+        "AP12_19.json"
+      ]
+    },
+    {
+      "from_id": 20,
+      "schoolName": "Barstow Community College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_20",
+      "files": [
+        "AD12_20.json",
+        "AM12_20.json",
+        "AP12_20.json"
+      ]
+    },
+    {
+      "from_id": 21,
+      "schoolName": "California State University, Hayward",
+      "isCommunityCollege": false,
+      "category": 0,
+      "folder": "12_21",
+      "files": [
+        "AD12_21.json",
+        "AM12_21.json",
+        "AP12_21.json"
+      ]
+    },
+    {
+      "from_id": 23,
+      "schoolName": "California State University, San Marcos",
+      "isCommunityCollege": false,
+      "category": 0,
+      "folder": "12_23",
+      "files": [
+        "AD12_23.json",
+        "AM12_23.json",
+        "AP12_23.json"
+      ]
+    },
+    {
+      "from_id": 24,
+      "schoolName": "California State University, Stanislaus",
+      "isCommunityCollege": false,
+      "category": 0,
+      "folder": "12_24",
+      "files": [
+        "AD12_24.json",
+        "AM12_24.json",
+        "AP12_24.json"
+      ]
+    },
+    {
+      "from_id": 25,
+      "schoolName": "Los Angeles Trade Technical College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_25",
+      "files": [
+        "AD12_25.json",
+        "AM12_25.json",
+        "AP12_25.json"
+      ]
+    },
+    {
+      "from_id": 26,
+      "schoolName": "San Diego State University",
+      "isCommunityCollege": false,
+      "category": 0,
+      "folder": "12_26",
+      "files": [
+        "AD12_26.json",
+        "AM12_26.json",
+        "AP12_26.json"
+      ]
+    },
+    {
+      "from_id": 27,
+      "schoolName": "American River College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_27",
+      "files": [
+        "AD12_27.json",
+        "AM12_27.json",
+        "AP12_27.json"
+      ]
+    },
+    {
+      "from_id": 28,
+      "schoolName": "Contra Costa College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_28",
+      "files": [
+        "AD12_28.json",
+        "AM12_28.json",
+        "AP12_28.json"
+      ]
+    },
+    {
+      "from_id": 29,
+      "schoolName": "California State University, Fresno",
+      "isCommunityCollege": false,
+      "category": 0,
+      "folder": "12_29",
+      "files": [
+        "AD12_29.json",
+        "AM12_29.json",
+        "AP12_29.json"
+      ]
+    },
+    {
+      "from_id": 30,
+      "schoolName": "College of the Desert",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_30",
+      "files": [
+        "AD12_30.json",
+        "AM12_30.json",
+        "AP12_30.json"
+      ]
+    },
+    {
+      "from_id": 31,
+      "schoolName": "Los Angeles Harbor College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_31",
+      "files": [
+        "AD12_31.json",
+        "AM12_31.json",
+        "AP12_31.json"
+      ]
+    },
+    {
+      "from_id": 32,
+      "schoolName": "Mission College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_32",
+      "files": [
+        "AD12_32.json",
+        "AM12_32.json",
+        "AP12_32.json"
+      ]
+    },
+    {
+      "from_id": 33,
+      "schoolName": "City College of San Francisco",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_33",
+      "files": [
+        "AD12_33.json",
+        "AM12_33.json",
+        "AP12_33.json"
+      ]
+    },
+    {
+      "from_id": 34,
+      "schoolName": "Compton Community College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_34",
+      "files": [
+        "AD12_34.json",
+        "AM12_34.json",
+        "AP12_34.json"
+      ]
+    },
+    {
+      "from_id": 35,
+      "schoolName": "Fresno City College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_35",
+      "files": [
+        "AD12_35.json",
+        "AM12_35.json",
+        "AP12_35.json"
+      ]
+    },
+    {
+      "from_id": 36,
+      "schoolName": "Kings River College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_36",
+      "files": [
+        "AD12_36.json",
+        "AM12_36.json",
+        "AP12_36.json"
+      ]
+    },
+    {
+      "from_id": 38,
+      "schoolName": "Shasta College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_38",
+      "files": [
+        "AD12_38.json",
+        "AM12_38.json",
+        "AP12_38.json"
+      ]
+    },
+    {
+      "from_id": 39,
+      "schoolName": "San Jose State University",
+      "isCommunityCollege": false,
+      "category": 0,
+      "folder": "12_39",
+      "files": [
+        "AD12_39.json",
+        "AM12_39.json",
+        "AP12_39.json"
+      ]
+    },
+    {
+      "from_id": 40,
+      "schoolName": "Lake Tahoe Community College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_40",
+      "files": [
+        "AD12_40.json",
+        "AM12_40.json",
+        "AP12_40.json"
+      ]
+    },
+    {
+      "from_id": 41,
+      "schoolName": "Cabrillo College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_41",
+      "files": [
+        "AD12_41.json",
+        "AM12_41.json",
+        "AP12_41.json"
+      ]
+    },
+    {
+      "from_id": 42,
+      "schoolName": "California State University, Northridge",
+      "isCommunityCollege": false,
+      "category": 0,
+      "folder": "12_42",
+      "files": [
+        "AD12_42.json",
+        "AM12_42.json",
+        "AP12_42.json"
+      ]
+    },
+    {
+      "from_id": 43,
+      "schoolName": "Glendale Community College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_43",
+      "files": [
+        "AD12_43.json",
+        "AM12_43.json",
+        "AP12_43.json"
+      ]
+    },
+    {
+      "from_id": 44,
+      "schoolName": "Los Angeles Valley College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_44",
+      "files": [
+        "AD12_44.json",
+        "AM12_44.json",
+        "AP12_44.json"
+      ]
+    },
+    {
+      "from_id": 45,
+      "schoolName": "San Diego Miramar College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_45",
+      "files": [
+        "AD12_45.json",
+        "AM12_45.json",
+        "AP12_45.json"
+      ]
+    },
+    {
+      "from_id": 47,
+      "schoolName": "Los Angeles Mission College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_47",
+      "files": [
+        "AD12_47.json",
+        "AM12_47.json",
+        "AP12_47.json"
+      ]
+    },
+    {
+      "from_id": 48,
+      "schoolName": "Ohlone College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_48",
+      "files": [
+        "AD12_48.json",
+        "AM12_48.json",
+        "AP12_48.json"
+      ]
+    },
+    {
+      "from_id": 49,
+      "schoolName": "Pasadena City College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_49",
+      "files": [
+        "AD12_49.json",
+        "AM12_49.json",
+        "AP12_49.json"
+      ]
+    },
+    {
+      "from_id": 50,
+      "schoolName": "California State University, Dominguez Hills",
+      "isCommunityCollege": false,
+      "category": 0,
+      "folder": "12_50",
+      "files": [
+        "AD12_50.json",
+        "AM12_50.json",
+        "AP12_50.json"
+      ]
+    },
+    {
+      "from_id": 51,
+      "schoolName": "Foothill College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_51",
+      "files": [
+        "AD12_51.json",
+        "AM12_51.json",
+        "AP12_51.json"
+      ]
+    },
+    {
+      "from_id": 52,
+      "schoolName": "Modesto Junior College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_52",
+      "files": [
+        "AD12_52.json",
+        "AM12_52.json",
+        "AP12_52.json"
+      ]
+    },
+    {
+      "from_id": 53,
+      "schoolName": "Mt. San Jacinto College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_53",
+      "files": [
+        "AD12_53.json",
+        "AM12_53.json",
+        "AP12_53.json"
+      ]
+    },
+    {
+      "from_id": 54,
+      "schoolName": "San Diego City College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_54",
+      "files": [
+        "AD12_54.json",
+        "AM12_54.json",
+        "AP12_54.json"
+      ]
+    },
+    {
+      "from_id": 55,
+      "schoolName": "Golden West College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_55",
+      "files": [
+        "AD12_55.json",
+        "AM12_55.json",
+        "AP12_55.json"
+      ]
+    },
+    {
+      "from_id": 56,
+      "schoolName": "Palomar College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_56",
+      "files": [
+        "AD12_56.json",
+        "AM12_56.json",
+        "AP12_56.json"
+      ]
+    },
+    {
+      "from_id": 57,
+      "schoolName": "Santa Rosa Junior College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_57",
+      "files": [
+        "AD12_57.json",
+        "AM12_57.json",
+        "AP12_57.json"
+      ]
+    },
+    {
+      "from_id": 58,
+      "schoolName": "Vista Community College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_58",
+      "files": [
+        "AD12_58.json",
+        "AM12_58.json",
+        "AP12_58.json"
+      ]
+    },
+    {
+      "from_id": 60,
+      "schoolName": "California State University, Sacramento",
+      "isCommunityCollege": false,
+      "category": 0,
+      "folder": "12_60",
+      "files": [
+        "AD12_60.json",
+        "AM12_60.json",
+        "AP12_60.json"
+      ]
+    },
+    {
+      "from_id": 61,
+      "schoolName": "Los Medanos College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_61",
+      "files": [
+        "AD12_61.json",
+        "AM12_61.json",
+        "AP12_61.json"
+      ]
+    },
+    {
+      "from_id": 62,
+      "schoolName": "Mount San Antonio College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_62",
+      "files": [
+        "AD12_62.json",
+        "AM12_62.json",
+        "AP12_62.json"
+      ]
+    },
+    {
+      "from_id": 63,
+      "schoolName": "Palo Verde College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_63",
+      "files": [
+        "AD12_63.json",
+        "AM12_63.json",
+        "AP12_63.json"
+      ]
+    },
+    {
+      "from_id": 64,
+      "schoolName": "Rio Hondo College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_64",
+      "files": [
+        "AD12_64.json",
+        "AM12_64.json",
+        "AP12_64.json"
+      ]
+    },
+    {
+      "from_id": 65,
+      "schoolName": "Saddleback College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_65",
+      "files": [
+        "AD12_65.json",
+        "AM12_65.json",
+        "AP12_65.json"
+      ]
+    },
+    {
+      "from_id": 66,
+      "schoolName": "Santiago Canyon College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_66",
+      "files": [
+        "AD12_66.json",
+        "AM12_66.json",
+        "AP12_66.json"
+      ]
+    },
+    {
+      "from_id": 67,
+      "schoolName": "West Hills College Coalinga",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_67",
+      "files": [
+        "AD12_67.json",
+        "AM12_67.json",
+        "AP12_67.json"
+      ]
+    },
+    {
+      "from_id": 68,
+      "schoolName": "Canada College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_68",
+      "files": [
+        "AD12_68.json",
+        "AM12_68.json",
+        "AP12_68.json"
+      ]
+    },
+    {
+      "from_id": 69,
+      "schoolName": "Chaffey College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_69",
+      "files": [
+        "AD12_69.json",
+        "AM12_69.json",
+        "AP12_69.json"
+      ]
+    },
+    {
+      "from_id": 70,
+      "schoolName": "Crafton Hills College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_70",
+      "files": [
+        "AD12_70.json",
+        "AM12_70.json",
+        "AP12_70.json"
+      ]
+    },
+    {
+      "from_id": 71,
+      "schoolName": "Cypress College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_71",
+      "files": [
+        "AD12_71.json",
+        "AM12_71.json",
+        "AP12_71.json"
+      ]
+    },
+    {
+      "from_id": 72,
+      "schoolName": "Gavilan College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_72",
+      "files": [
+        "AD12_72.json",
+        "AM12_72.json",
+        "AP12_72.json"
+      ]
+    },
+    {
+      "from_id": 73,
+      "schoolName": "Napa Valley College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_73",
+      "files": [
+        "AD12_73.json",
+        "AM12_73.json",
+        "AP12_73.json"
+      ]
+    },
+    {
+      "from_id": 74,
+      "schoolName": "Orange Coast College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_74",
+      "files": [
+        "AD12_74.json",
+        "AM12_74.json",
+        "AP12_74.json"
+      ]
+    },
+    {
+      "from_id": 75,
+      "schoolName": "California Polytechnic University, Pomona",
+      "isCommunityCollege": false,
+      "category": 0,
+      "folder": "12_75",
+      "files": [
+        "AD12_75.json",
+        "AM12_75.json",
+        "AP12_75.json"
+      ]
+    },
+    {
+      "from_id": 76,
+      "schoolName": "California State University, Los Angeles",
+      "isCommunityCollege": false,
+      "category": 0,
+      "folder": "12_76",
+      "files": [
+        "AD12_76.json",
+        "AM12_76.json",
+        "AP12_76.json"
+      ]
+    },
+    {
+      "from_id": 77,
+      "schoolName": "Laney College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_77",
+      "files": [
+        "AD12_77.json",
+        "AM12_77.json",
+        "AP12_77.json"
+      ]
+    },
+    {
+      "from_id": 78,
+      "schoolName": "Riverside City College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_78",
+      "files": [
+        "AD12_78.json",
+        "AM12_78.json",
+        "AP12_78.json"
+      ]
+    },
+    {
+      "from_id": 80,
+      "schoolName": "West Valley College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_80",
+      "files": [
+        "AD12_80.json",
+        "AM12_80.json",
+        "AP12_80.json"
+      ]
+    },
+    {
+      "from_id": 81,
+      "schoolName": "California State University, Long Beach",
+      "isCommunityCollege": false,
+      "category": 0,
+      "folder": "12_81",
+      "files": [
+        "AD12_81.json",
+        "AM12_81.json",
+        "AP12_81.json"
+      ]
+    },
+    {
+      "from_id": 82,
+      "schoolName": "Lassen Community College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_82",
+      "files": [
+        "AD12_82.json",
+        "AM12_82.json",
+        "AP12_82.json"
+      ]
+    },
+    {
+      "from_id": 83,
+      "schoolName": "College of the Redwoods",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_83",
+      "files": [
+        "AD12_83.json",
+        "AM12_83.json",
+        "AP12_83.json"
+      ]
+    },
+    {
+      "from_id": 84,
+      "schoolName": "Bakersfield College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_84",
+      "files": [
+        "AD12_84.json",
+        "AM12_84.json",
+        "AP12_84.json"
+      ]
+    },
+    {
+      "from_id": 85,
+      "schoolName": "California State University, San Bernardino",
+      "isCommunityCollege": false,
+      "category": 0,
+      "folder": "12_85",
+      "files": [
+        "AD12_85.json",
+        "AM12_85.json",
+        "AP12_85.json"
+      ]
+    },
+    {
+      "from_id": 86,
+      "schoolName": "Los Angeles Pierce College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_86",
+      "files": [
+        "AD12_86.json",
+        "AM12_86.json",
+        "AP12_86.json"
+      ]
+    },
+    {
+      "from_id": 87,
+      "schoolName": "Oxnard College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_87",
+      "files": [
+        "AD12_87.json",
+        "AM12_87.json",
+        "AP12_87.json"
+      ]
+    },
+    {
+      "from_id": 88,
+      "schoolName": "Sonoma State University",
+      "isCommunityCollege": false,
+      "category": 0,
+      "folder": "12_88",
+      "files": [
+        "AD12_88.json",
+        "AM12_88.json",
+        "AP12_88.json"
+      ]
+    },
+    {
+      "from_id": 90,
+      "schoolName": "Yuba College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_90",
+      "files": [
+        "AD12_90.json",
+        "AM12_90.json",
+        "AP12_90.json"
+      ]
+    },
+    {
+      "from_id": 91,
+      "schoolName": "West Los Angeles College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_91",
+      "files": [
+        "AD12_91.json",
+        "AM12_91.json",
+        "AP12_91.json"
+      ]
+    },
+    {
+      "from_id": 92,
+      "schoolName": "Santa Barbara City College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_92",
+      "files": [
+        "AD12_92.json",
+        "AM12_92.json",
+        "AP12_92.json"
+      ]
+    },
+    {
+      "from_id": 93,
+      "schoolName": "Sierra College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_93",
+      "files": [
+        "AD12_93.json",
+        "AM12_93.json",
+        "AP12_93.json"
+      ]
+    },
+    {
+      "from_id": 94,
+      "schoolName": "Solano Community College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_94",
+      "files": [
+        "AD12_94.json",
+        "AM12_94.json",
+        "AP12_94.json"
+      ]
+    },
+    {
+      "from_id": 95,
+      "schoolName": "Ventura College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_95",
+      "files": [
+        "AD12_95.json",
+        "AM12_95.json",
+        "AP12_95.json"
+      ]
+    },
+    {
+      "from_id": 96,
+      "schoolName": "Chabot College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_96",
+      "files": [
+        "AD12_96.json",
+        "AM12_96.json",
+        "AP12_96.json"
+      ]
+    },
+    {
+      "from_id": 97,
+      "schoolName": "Citrus College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_97",
+      "files": [
+        "AD12_97.json",
+        "AM12_97.json",
+        "AP12_97.json"
+      ]
+    },
+    {
+      "from_id": 98,
+      "schoolName": "California State University, Bakersfield",
+      "isCommunityCollege": false,
+      "category": 0,
+      "folder": "12_98",
+      "files": [
+        "AD12_98.json",
+        "AM12_98.json",
+        "AP12_98.json"
+      ]
+    },
+    {
+      "from_id": 99,
+      "schoolName": "Cuyamaca College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_99",
+      "files": [
+        "AD12_99.json",
+        "AM12_99.json",
+        "AP12_99.json"
+      ]
+    },
+    {
+      "from_id": 100,
+      "schoolName": "Mendocino College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_100",
+      "files": [
+        "AD12_100.json",
+        "AM12_100.json",
+        "AP12_100.json"
+      ]
+    },
+    {
+      "from_id": 101,
+      "schoolName": "San Diego Mesa College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_101",
+      "files": [
+        "AD12_101.json",
+        "AM12_101.json",
+        "AP12_101.json"
+      ]
+    },
+    {
+      "from_id": 102,
+      "schoolName": "College of the Siskiyous",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_102",
+      "files": [
+        "AD12_102.json",
+        "AM12_102.json",
+        "AP12_102.json"
+      ]
+    },
+    {
+      "from_id": 103,
+      "schoolName": "El Camino College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_103",
+      "files": [
+        "AD12_103.json",
+        "AM12_103.json",
+        "AP12_103.json"
+      ]
+    },
+    {
+      "from_id": 104,
+      "schoolName": "Cerritos College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_104",
+      "files": [
+        "AD12_104.json",
+        "AM12_104.json",
+        "AP12_104.json"
+      ]
+    },
+    {
+      "from_id": 105,
+      "schoolName": "Coastline Community College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_105",
+      "files": [
+        "AD12_105.json",
+        "AM12_105.json",
+        "AP12_105.json"
+      ]
+    },
+    {
+      "from_id": 106,
+      "schoolName": "Grossmont College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_106",
+      "files": [
+        "AD12_106.json",
+        "AM12_106.json",
+        "AP12_106.json"
+      ]
+    },
+    {
+      "from_id": 107,
+      "schoolName": "Imperial Valley College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_107",
+      "files": [
+        "AD12_107.json",
+        "AM12_107.json",
+        "AP12_107.json"
+      ]
+    },
+    {
+      "from_id": 108,
+      "schoolName": "MiraCosta College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_108",
+      "files": [
+        "AD12_108.json",
+        "AM12_108.json",
+        "AP12_108.json"
+      ]
+    },
+    {
+      "from_id": 109,
+      "schoolName": "San Joaquin Delta College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_109",
+      "files": [
+        "AD12_109.json",
+        "AM12_109.json",
+        "AP12_109.json"
+      ]
+    },
+    {
+      "from_id": 110,
+      "schoolName": "Allan Hancock College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_110",
+      "files": [
+        "AD12_110.json",
+        "AM12_110.json",
+        "AP12_110.json"
+      ]
+    },
+    {
+      "from_id": 111,
+      "schoolName": "College of Alameda",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_111",
+      "files": [
+        "AD12_111.json",
+        "AM12_111.json",
+        "AP12_111.json"
+      ]
+    },
+    {
+      "from_id": 112,
+      "schoolName": "Copper Mountain College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_112",
+      "files": [
+        "AD12_112.json",
+        "AM12_112.json",
+        "AP12_112.json"
+      ]
+    },
+    {
+      "from_id": 113,
+      "schoolName": "De Anza College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_113",
+      "files": [
+        "AD12_113.json",
+        "AM12_113.json",
+        "AP12_113.json"
+      ]
+    },
+    {
+      "from_id": 114,
+      "schoolName": "Diablo Valley College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_114",
+      "files": [
+        "AD12_114.json",
+        "AM12_114.json",
+        "AP12_114.json"
+      ]
+    },
+    {
+      "from_id": 115,
+      "schoolName": "Humboldt State University",
+      "isCommunityCollege": false,
+      "category": 0,
+      "folder": "12_115",
+      "files": [
+        "AD12_115.json",
+        "AM12_115.json",
+        "AP12_115.json"
+      ]
+    },
+    {
+      "from_id": 116,
+      "schoolName": "San Francisco State University",
+      "isCommunityCollege": false,
+      "category": 0,
+      "folder": "12_116",
+      "files": [
+        "AD12_116.json",
+        "AM12_116.json",
+        "AP12_116.json"
+      ]
+    },
+    {
+      "from_id": 118,
+      "schoolName": "East Los Angeles College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_118",
+      "files": [
+        "AD12_118.json",
+        "AM12_118.json",
+        "AP12_118.json"
+      ]
+    },
+    {
+      "from_id": 119,
+      "schoolName": "Taft College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_119",
+      "files": [
+        "AD12_119.json",
+        "AM12_119.json",
+        "AP12_119.json"
+      ]
+    },
+    {
+      "from_id": 121,
+      "schoolName": "Antelope Valley College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_121",
+      "files": [
+        "AD12_121.json",
+        "AM12_121.json",
+        "AP12_121.json"
+      ]
+    },
+    {
+      "from_id": 122,
+      "schoolName": "Feather River College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_122",
+      "files": [
+        "AD12_122.json",
+        "AM12_122.json",
+        "AP12_122.json"
+      ]
+    },
+    {
+      "from_id": 123,
+      "schoolName": "Hartnell College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_123",
+      "files": [
+        "AD12_123.json",
+        "AM12_123.json",
+        "AP12_123.json"
+      ]
+    },
+    {
+      "from_id": 124,
+      "schoolName": "Irvine Valley College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_124",
+      "files": [
+        "AD12_124.json",
+        "AM12_124.json",
+        "AP12_124.json"
+      ]
+    },
+    {
+      "from_id": 125,
+      "schoolName": "Porterville College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_125",
+      "files": [
+        "AD12_125.json",
+        "AM12_125.json",
+        "AP12_125.json"
+      ]
+    },
+    {
+      "from_id": 126,
+      "schoolName": "Sacramento City College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_126",
+      "files": [
+        "AD12_126.json",
+        "AM12_126.json",
+        "AP12_126.json"
+      ]
+    },
+    {
+      "from_id": 127,
+      "schoolName": "Skyline College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_127",
+      "files": [
+        "AD12_127.json",
+        "AM12_127.json",
+        "AP12_127.json"
+      ]
+    },
+    {
+      "from_id": 129,
+      "schoolName": "California State University, Fullerton",
+      "isCommunityCollege": false,
+      "category": 0,
+      "folder": "12_129",
+      "files": [
+        "AD12_129.json",
+        "AM12_129.json",
+        "AP12_129.json"
+      ]
+    },
+    {
+      "from_id": 130,
+      "schoolName": "Los Angeles Southwest College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_130",
+      "files": [
+        "AD12_130.json",
+        "AM12_130.json",
+        "AP12_130.json"
+      ]
+    },
+    {
+      "from_id": 131,
+      "schoolName": "San Bernardino Valley College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_131",
+      "files": [
+        "AD12_131.json",
+        "AM12_131.json",
+        "AP12_131.json"
+      ]
+    },
+    {
+      "from_id": 133,
+      "schoolName": "Monterey Peninsula College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_133",
+      "files": [
+        "AD12_133.json",
+        "AM12_133.json",
+        "AP12_133.json"
+      ]
+    },
+    {
+      "from_id": 134,
+      "schoolName": "Fullerton College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_134",
+      "files": [
+        "AD12_134.json",
+        "AM12_134.json",
+        "AP12_134.json"
+      ]
+    },
+    {
+      "from_id": 135,
+      "schoolName": "Long Beach City College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_135",
+      "files": [
+        "AD12_135.json",
+        "AM12_135.json",
+        "AP12_135.json"
+      ]
+    },
+    {
+      "from_id": 136,
+      "schoolName": "San Jose City College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_136",
+      "files": [
+        "AD12_136.json",
+        "AM12_136.json",
+        "AP12_136.json"
+      ]
+    },
+    {
+      "from_id": 137,
+      "schoolName": "Santa Monica College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_137",
+      "files": [
+        "AD12_137.json",
+        "AM12_137.json",
+        "AP12_137.json"
+      ]
+    },
+    {
+      "from_id": 138,
+      "schoolName": "Southwestern College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_138",
+      "files": [
+        "AD12_138.json",
+        "AM12_138.json",
+        "AP12_138.json"
+      ]
+    },
+    {
+      "from_id": 139,
+      "schoolName": "Moorpark College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_139",
+      "files": [
+        "AD12_139.json",
+        "AM12_139.json",
+        "AP12_139.json"
+      ]
+    },
+    {
+      "from_id": 140,
+      "schoolName": "College of the Canyons",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_140",
+      "files": [
+        "AD12_140.json",
+        "AM12_140.json",
+        "AP12_140.json"
+      ]
+    },
+    {
+      "from_id": 141,
+      "schoolName": "California State University, Chico",
+      "isCommunityCollege": false,
+      "category": 0,
+      "folder": "12_141",
+      "files": [
+        "AD12_141.json",
+        "AM12_141.json",
+        "AP12_141.json"
+      ]
+    },
+    {
+      "from_id": 142,
+      "schoolName": "Cosumnes River College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_142",
+      "files": [
+        "AD12_142.json",
+        "AM12_142.json",
+        "AP12_142.json"
+      ]
+    },
+    {
+      "from_id": 143,
+      "schoolName": "California State University, Channel Islands",
+      "isCommunityCollege": false,
+      "category": 0,
+      "folder": "12_143",
+      "files": [
+        "AD12_143.json",
+        "AM12_143.json",
+        "AP12_143.json"
+      ]
+    },
+    {
+      "from_id": 145,
+      "schoolName": "Folsom Lake College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_145",
+      "files": [
+        "AD12_145.json",
+        "AM12_145.json",
+        "AP12_145.json"
+      ]
+    },
+    {
+      "from_id": 146,
+      "schoolName": "West Hills College Lemoore",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_146",
+      "files": [
+        "AD12_146.json",
+        "AM12_146.json",
+        "AP12_146.json"
+      ]
+    },
+    {
+      "from_id": 147,
+      "schoolName": "Woodland Community College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_147",
+      "files": [
+        "AD12_147.json",
+        "AM12_147.json",
+        "AP12_147.json"
+      ]
+    },
+    {
+      "from_id": 148,
+      "schoolName": "Norco College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_148",
+      "files": [
+        "AD12_148.json",
+        "AM12_148.json",
+        "AP12_148.json"
+      ]
+    },
+    {
+      "from_id": 149,
+      "schoolName": "Moreno Valley College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_149",
+      "files": [
+        "AD12_149.json",
+        "AM12_149.json",
+        "AP12_149.json"
+      ]
+    },
+    {
+      "from_id": 150,
+      "schoolName": "Clovis Community College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_150",
+      "files": [
+        "AD12_150.json",
+        "AM12_150.json",
+        "AP12_150.json"
+      ]
+    },
+    {
+      "from_id": 153,
+      "schoolName": "Compton College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_153",
+      "files": [
+        "AD12_153.json",
+        "AM12_153.json",
+        "AP12_153.json"
+      ]
+    },
+    {
+      "from_id": 200,
+      "schoolName": "Madera Community College",
+      "isCommunityCollege": true,
+      "category": 2,
+      "folder": "12_200",
+      "files": [
+        "AD12_200.json",
+        "AM12_200.json",
+        "AP12_200.json"
+      ]
+    }
+  ]
+}
