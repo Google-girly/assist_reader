@@ -1,0 +1,12 @@
+{
+  "sending_group": "CCC",
+  "receiving_groups": [
+    "CSU",
+    "UC"
+  ],
+  "pair_count": 3712,
+  "counts": {
+    "community_colleges": 116,
+    "receiving_schools": 32
+  }
+}
