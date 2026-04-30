@@ -1,0 +1,27 @@
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"label": "run-assist-scraper",
+			"type": "shell",
+			"command": "python3",
+			"args": [
+				"-u",
+				"scrape_assist_agreement.py",
+				"--year",
+				"76",
+				"--root",
+				"mappings",
+				"--all",
+				"--skip-existing",
+				"--delay",
+				"0",
+				"--max-requests",
+				"50",
+				"--window-seconds",
+				"300"
+			],
+			"isBackground": true
+		}
+	]
+}
